@@ -1,0 +1,1923 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" /> 
+    <meta http-equiv="X-UA-Compatible"  content="IE=edge" >  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+          <link rel="preconnect" href="//www5.smartadserver.com">
+<link rel="preconnect" href="//tagmanager.smartadserver.com">
+<link rel="preconnect" href="//ced.sascdn.com">
+<link rel="preconnect" href="//cdn.taboola.com">
+<link rel="preconnect" href="//ajax.googleapis.com">
+<link rel="preconnect" href="//wfpscripts.webspectator.com">
+<link rel="preconnect" href="//v3.denakop.com">
+<link rel="preconnect" href="//barra.r7.com">
+<link rel="preconnect" href="//static.criteo.net">
+<link rel="preconnect" href="//securepubads.g.doubleclick.net">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;900&display=swap" rel="stylesheet">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFKL3B');</script>
+<!-- End Google Tag Manager -->
+<!--ADX-->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<!--ADX-->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3488053582622085",
+          enable_page_level_ads: false
+     });
+</script>
+<script type="application/javascript" src="//ced.sascdn.com/tag/1320/smart.js" async></script>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ networkid: 1320, domain: "//www5.smartadserver.com", async: true, renderMode : 2 });
+    });
+</script>
+<script type="text/javascript" src="//tagmanager.smartadserver.com/1320/71754/smart.prebid.js" async></script>
+
+<!--soclminer-->
+<script>!function (a) { var b, c = "soclminer-jssdk", d = a.getElementsByTagName("script")[0]; a.getElementById(c) || (b = a.createElement("script"), b.src = "https://plugins.soclminer.com.br/v3/sdk/all.min.js", d.parentNode.insertBefore(b, d)) }(document), window.soclInit = function () { socl.start("0d2ab486-745b-45cf-991c-8d91aa3e3e5f") };</script>
+<!--soclminer-->
+<style> #sm-bounce { position: relative; right: 50%; } </style> 
+<!-- DMP !-->
+<script id="navegg" type="text/javascript">
+   (function(n,v,g){o='Navegg';if(!n[o]){
+	a=v.createElement('script');a.src=g;b=document.getElementsByTagName('script')[0];
+	b.parentNode.insertBefore(a,b);n[o]=n[o]||function(parms){
+	n[o].q=n[o].q||[];n[o].q.push([this, parms])};}})
+	(window, document, 'https://tag.navdmp.com/universal.min.js');
+	window.naveggReady = window.naveggReady||[];
+	window.nvg23925 = new Navegg({
+	acc: 23925
+ });
+</script>
+<!-- Tag Navegg -->
+<script type="text/javascript">
+    (function(w) {
+        try {
+            w.NVG_qry = "";
+            var name, col, persona = JSON.parse(window.localStorage.getItem("nvgpersona23925"));
+            for (col in persona) {
+                name = "nvg_" + col;
+if(name != "nvg_everybuyer"){
+                if (typeof persona[col] == "object") {
+                    for (x in persona[col]) {
+                        //w.NVG_qry += "" + name + "=" + persona[col][x] + ";";
+                        w.NVG_qry += "";
+                    }
+                } else
+                    //w.NVG_qry += "" + name + "=" + persona[col] + ";";
+                    w.NVG_qry += "" ;
+}
+            }
+        } catch (e) {
+            console.error(e);
+            w.NVG_qry = "";
+        }
+    })(window)
+</script>
+<!-- Prepare SmartAdServer Variables -->
+<script type="text/javascript">
+    var sas_target = '';
+    if (typeof(sas_target) == "undefined" || sas_target == "") {
+        try {
+            if (typeof(tagsmart) == "undefined" || tagsmart == ""){
+                var sas_target = NVG_qry;
+            } else {
+                var sas_target = tagsmart + NVG_qry;  
+            }
+        } catch (e) {};
+    } else {
+        try {
+            if (sas_target[sas_target.length - 1] != ";") {
+                sas_target += ";";
+            }
+            sas_target = sas_target + tagsmart + NVG_qry;
+        } catch (e) {};
+    }
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '204496277643064');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=204496277643064&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<meta property="fb:app_id" content="1541293449424905">
+<meta property="fb:pages" content="580405362002636">
+
+
+                  <link rel="alternate" type="application/rss+xml" title="Capa" href="/cmlink/capa-1.552148" />
+                  <link rel="alternate" type="application/rss+xml" title="Ultimas" href="/cmlink/ultimas-noticias-1.244006" />
+        
+      
+
+    <link rel="shortcut icon" href="/polopoly_fs/3.232854!/faviconCPPB16.png" sizes="16x16">
+    <link rel="icon" href="/polopoly_fs/3.232854!/faviconCPPB32.png" sizes="32x32">
+
+    
+
+            
+    
+    
+            
+          
+        <link rel="canonical" href="https://www.correiodopovo.com.br/busca">
+        
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+      
+                          <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.146.1551460757!/css/bootstrap.min.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.232526.1615315562!/belamais.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.194.1594145527!/style.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.302.1615315537!/style.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.259.1551461019!/comments.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.256.1551461012!/video-js.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.256.1551461012!/video.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.237.1615315513!/MainElement.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.234.1615315510!/MainElement.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1615315500!/MainElement.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1615315500!/css/tags.carousel.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1615315500!/css/tags.theme.default.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1615315500!/css/owl.carousel.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1615315500!/css/owl.theme.default.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.212.1615315469!/social-auth.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.212.1615315469!/bootstrap-social.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.203.1615315462!/css/fotorama.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.203.1615315462!/css/fotorama-custom.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.200.1615315459!/SearchElement.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.197.1615315455!/style.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.184.1615315445!/style.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.178.1615315437!/MainElement.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.175.1615315435!/MainElement.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.163.1615315420!/fontawesome/css/font-awesome.min.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.163.1615315420!/fontscorreio/css/fontscorreio.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.163.1615315420!/fontsbelamais/css/fontsbelamais.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.163.1615315420!/stylenovo.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.153.1615315412!/style.css" />
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.150.1615315409!/MainElement.css" />
+                                    <script type="text/javascript" src="/polopoly_fs/3.137.1615315402!/autotrack.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.137.1615315402!/jquery.cookie.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.143.1551460756!/jquery-1.11.0.min.js"></script>
+                          <meta name="google-site-verification" content="j26SXA5lCstrbqGhWCPEJf82xVEp3xkn-zL7da2Rll8">
+                                          <meta name="google-signin-clientid" content="172526348210-or5nfffa5l6rbsvruouad2070j7ngoec.apps.googleusercontent.com" />
+<meta name="google-signin-cookiepolicy" content="single_host_origin" />
+<meta name="google-signin-callback" content="googleSignInCallback" />
+<meta name="google-signin-scope" content="profile email" />
+<meta name="google-signin-redirecturi" content="postmessage" />
+<meta name="google-signin-accesstype" content="offline" />
+                            <script>
+  $(function() {
+    if (document.cookie.indexOf("accessToken") >= 0) {
+      $.ajax({ url: "/personalization?articleId=policy:2.221", method: "POST" });
+    }
+  });
+</script>
+          
+	
+				
+
+
+<title>Busca</title>
+<meta name="title" content="Busca">
+<meta name="description" content="">
+<meta property="og:title" content="Busca">
+<meta property="og:site_name" content="Correio do Povo">
+
+  <meta property="og:url" content="https://www.correiodopovo.com.br/busca">
+  
+<meta property="og:description" content="">
+<meta property="og:type" content="website">
+          <script src="https://platform.instagram.com/en_US/embeds.js"></script>    
+          <link rel="stylesheet" type="text/css" href="/cmlink/patrocinio-topo-7.22393">
+          <link rel="stylesheet" type="text/css" href="/cmlink/eleicao3-o-7.22099">
+          <link rel="stylesheet" type="text/css" href="/cmlink/grid-n-7.21805">
+          <link rel="stylesheet" type="text/css" href="/cmlink/cssbellamais-7.21806">
+    
+    <script type="text/javascript" src="/js/com.atex.gong.paywall.membership.js"></script>
+
+    <!-- Infinite scroll logic start -->
+        <!-- Infinite scroll logic end -->
+
+    
+                </script>
+<script type="text/javascript" 
+src="https://wfpscripts.webspectator.com/bootstrap/ws-GTAYHGT2.js">
+</script>
+            <script id="adsbygoogle" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<script id="adsbygooglepl">
+			(adsbygoogle = window.adsbygoogle || []).push({
+				google_ad_client: "ca-pub-3488053582622085",
+				enable_page_level_ads: true
+			  });
+		</script>
+    
+  </head>
+  <body class="geral">
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFKL3B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+var leitorsuperbannermeio = 0;
+var tagm = "";
+if (typeof tagsmart=== "undefined") {
+    sas_target ="";
+    var tagsmart = "";
+} else {
+    sas_target = tagsmart;
+    tagm = tagsmart.replaceAll("tag=","").replaceAll(";",",");
+}
+
+var dnkp = 10102;
+if ((window.location.href.indexOf("verao") > -1) ||(window.location.href.indexOf("1.593115") > -1) || (window.location.href.indexOf("cp-rural") > -1) || (window.location.href.indexOf("/rural") > -1) || (window.location.href.indexOf("expointer") > -1) || (window.location.href.indexOf("correiomaisinterior") > -1) || (window.location.href.indexOf("correiomaisconteudo") > -1) || (window.location.href.indexOf("falars") > -1) || (window.location.href.indexOf("universidadescomunitarias") > -1) || (window.location.href.indexOf("cpmaissaude") > -1) || (window.location.href.indexOf("ensino") > -1) || (window.location.href.indexOf("diálogos") > -1) || (window.location.href.indexOf("di%C3%A1logos") > -1) || (window.location.href.indexOf("2021") > -1)|| (window.location.href.indexOf("especial") > -1) ){
+      dnkp = 0;
+}
+</script>
+<script async src="//v3.denakop.com/denakop.js"></script>
+<script name="denakop">
+if ((window.location.href.indexOf("verao") > -1) ||(window.location.href.indexOf("1.593115") > -1) || (window.location.href.indexOf("cp-rural") > -1) || (window.location.href.indexOf("/rural") > -1) || (window.location.href.indexOf("expointer") > -1) || (window.location.href.indexOf("correiomaisinterior") > -1) || (window.location.href.indexOf("correiomaisconteudo") > -1)  || (window.location.href.indexOf("falars") > -1)  || (window.location.href.indexOf("universidadescomunitarias") > -1) || (window.location.href.indexOf("cpmaissaude") > -1) || (window.location.href.indexOf("ensino")> -1) || (window.location.href.indexOf("diálogos") > -1) || (window.location.href.indexOf("di%C3%A1logos") > -1) || (window.location.href.indexOf("2021") > -1) || (window.location.href.indexOf("especial") > -1)){
+
+} else {
+    window.denakoptag = window.denakoptag || {cmd: []};
+    denakoptag.cmd.push(function() {
+       denakoptag.setAccountId(10102);
+    });
+}
+</script>
+<script type="text/javascript" id="r7barrautil" src="https://barra.r7.com/barra.js">
+	{responsivo:true, banner:false, submenu:true, append:true, blank:false, r7_play:false, acessibilidade:true}
+</script>
+
+    <nav id="menuHeader">
+
+      <div class="container menufixo topo">
+        
+            <div>
+                <ul class="nav navbar-nav navbar-left">
+                  <li>
+                    <a style="cursor:pointer;font-size: 22px;padding-right: 0px;" onclick="openNav()">&#9776;</a>
+                  </li>
+                  <li>
+                    <a style="cursor:pointer" onclick="openNav()">menu</a>
+                  </li>
+                </ul>
+            </div>
+            <div class="logobranco">
+              <a href="/"><img src="https://portal.correiodopovo.com.br/imagens/Correio_do_Povo_branco.png" alt="Correio do Povo" title="Correio do Povo"></a>
+            </div>
+
+            <div class="flipside login">
+              <div class="assinar">
+                <a href="http://leitor.correiodopovo.com.br/?tag=assinetopo" target="_Blank">Assine</a>
+              </div>
+              <div class="entrar">
+                <a href="http://digital.correiodopovo.com.br" target="_Blank">Entrar</a> 
+                <span class="glyphicon glyphicon-user"></span>
+              </div>
+            </div>
+        
+      </div>
+        <div class="RS"></div>
+    </nav>
+
+    <div id="overlay" onclick="closeNav()">
+    </div>
+    <div id="mySidenav" class="sidenav style-4">    
+        <div class="login">
+    <div class="entrar">
+      <a href="http://digital.correiodopovo.com.br" target="_Blank">Entrar</a>
+      <span class="glyphicon glyphicon-user"></span>
+    </div>
+    <div class="assinar">
+      <a href="http://leitor.correiodopovo.com.br/?tag=assinetopo" target="_Blank">Assine</a>
+    </div>
+  </div>
+  <div class="buscageral menuside">
+        
+
+    <form
+      class="form-search form-inline"
+      action="/busca"
+      method="get">
+      	<button type="submit"></button>
+        <input type="text" name="q" value="" class="form-control search-query" placeholder="Buscar..." />
+    </form>
+  </div>
+      <ul class="menuside">
+    
+      
+     
+        
+    <li  class='Últimas' data-toggle="collapse" data-target="#Últimas" style="cursor:pointer;"><a href="/%C3%BAltimas">Últimas</a>
+            
+      
+    </li>
+  
+
+                              <li>
+            <a href="https://www.correiodopovo.com.br/not%C3%ADcias/geral/coronavirus">CORONAVÍRUS</a>
+          </li>
+                                          <li>
+            <a href="https://www.correiodopovo.com.br/topicos/Tag/Vacina">VACINA</a>
+          </li>
+                                          <li>
+            <a href="https://www.correiodopovo.com.br/topicos/Tag/CPI%20da%20Covid">CPI DA COVID</a>
+          </li>
+                                              </ul>
+  
+  <ul class="menuside">
+    
+     
+        
+    <li  class='Colunistas' data-toggle="collapse" data-target="#Colunistas" style="cursor:pointer;"><a href="/colunistas">Colunistas</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Colunistas" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/colunistas/alexandre-garcia">Alexandre Garcia</a></li>
+                                                <li><a href="/colunistas/eduardo-conill">Eduardo Conill</a></li>
+                                                <li><a href="/colunistas/guilherme-baumhardt">Guilherme Baumhardt</a></li>
+                                                <li><a href="/colunistas/jurandir-soares">Jurandir Soares</a></li>
+                                                <li><a href="/colunistas/luiz-coronel">Luiz Coronel</a></li>
+                                                <li><a href="/colunistas/luiz-gonzaga-lopes">Luiz Gonzaga Lopes</a></li>
+                                                <li><a href="/colunistas/nando-gross">Nando Gross</a></li>
+                                                                      <li><a href="/colunistas/taline-oppitz">Taline Oppitz</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='Blogs' data-toggle="collapse" data-target="#Blogs" style="cursor:pointer;"><a href="/blogs">Blogs</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Blogs" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/blogs/artigos">Artigos</a></li>
+                                                <li><a href="/blogs/bichoamigo">Bicho Amigo</a></li>
+                                                <li><a href="/blogs/campereada">Campereada</a></li>
+                                                <li><a href="/blogs/carrosemotos">Carros & Motos</a></li>
+                                                <li><a href="/blogs/cenarock">Cena Rock</a></li>
+                                                <li><a href="/blogs/cinecp">Cine CP</a></li>
+                                                <li><a href="/blogs/correiofeminino">Correio Feminino</a></li>
+                                                                      <li><a href="/blogs/di%C3%A1logos">Diálogos</a></li>
+                                                <li><a href="/blogs/fotocorreio">FotoCorreio</a></li>
+                                                <li><a href="/blogs/h%C3%A1-um-s%C3%A9culo-no-cp">Há um Século no CP</a></li>
+                                                <li><a href="/blogs/hiltormombach">Hiltor Mombach</a></li>
+                                                <li><a href="/blogs/juremirmachado">Juremir Machado da Silva</a></li>
+                                                                      <li><a href="/blogs/livrosamais">Livros A+</a></li>
+                                                                      <li><a href="/blogs/oficinadejornalismo">Oficina de Jornalismo</a></li>
+                                                <li><a href="/blogs/oscarbessi">Oscar Bessi</a></li>
+                                                <li><a href="/blogs/pitlane">Pitlane</a></li>
+                                                <li><a href="/blogs/planodecarreira">Plano de Carreira</a></li>
+                                                    </ul>
+      
+    </li>
+     
+        
+    <li  class='Podcasts' data-toggle="collapse" data-target="#Podcasts" style="cursor:pointer;"><a href="/podcasts">Podcasts</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Podcasts" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/podcasts/direto-ao-ponto">Direto ao Ponto</a></li>
+                                                <li><a href="/podcasts/papo-com-juremir">Papo com Juremir</a></li>
+                                                <li><a href="/podcasts/h%C3%A1-um-s%C3%A9culo-no-cp">Há um Século no CP</a></li>
+                                                <li><a href="/podcasts/cp-rural">CP Rural</a></li>
+                                                <li><a href="/podcasts/cp-futebol-clube">CP Futebol Clube</a></li>
+                                                <li><a href="/podcasts/matriz">Matriz</a></li>
+                                                <li><a href="/podcasts/forense">Forense</a></li>
+                                                <li><a href="/podcasts/n%C3%A3o-tem-fora">Não Tem Fora</a></li>
+                                                <li><a href="/podcasts/outros-mundos">Outros Mundos</a></li>
+                                                <li><a href="/podcasts/campereadas">Campereadas</a></li>
+                                                <li><a href="/podcasts/artedebater">ArteDebater</a></li>
+                                                <li><a href="/podcasts/livros-a">Livros A+</a></li>
+                                                <li><a href="/podcasts/cpop">CPop</a></li>
+                                                <li><a href="/podcasts/cena-rock">Cena Rock</a></li>
+                              </ul>
+      
+    </li>
+  
+  </ul>
+
+  <ul class="menuside">
+    
+     
+        
+    <li  class='Notícias' data-toggle="collapse" data-target="#Notícias" style="cursor:pointer;"><a href="/not%C3%ADcias">Notícias</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Notícias" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/2.892">Perspectiva</a></li>
+                                                                                            <li><a href="/not%C3%ADcias/ensino">Ensino</a></li>
+                                                                                            <li><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a></li>
+                                                                          </ul>
+      
+    </li>
+     
+        
+    <li  class='Política' data-toggle="collapse" data-target="#Política" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADtica">Política</a>
+                                            
+      
+    </li>
+     
+        
+    <li  class='Economia' data-toggle="collapse" data-target="#Economia" style="cursor:pointer;"><a href="/not%C3%ADcias/economia">Economia</a>
+                                            
+      
+    </li>
+     
+        
+    <li  class='Geral' data-toggle="collapse" data-target="#Geral" style="cursor:pointer;"><a href="/not%C3%ADcias/geral">Geral</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Geral" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/geral/coronavirus">Coronavírus</a></li>
+                                                <li><a href="/not%C3%ADcias/geral/aniversario-de-porto-alegre">Aniversario de Porto Alegre</a></li>
+                                                <li><a href="/not%C3%ADcias/geral/semanafarroupilha">Semana Farroupilha</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='Cidades' data-toggle="collapse" data-target="#Cidades" style="cursor:pointer;"><a href="/not%C3%ADcias/cidades">Cidades</a>
+            
+      
+    </li>
+     
+        
+    <li  class='Mundo' data-toggle="collapse" data-target="#Mundo" style="cursor:pointer;"><a href="/not%C3%ADcias/mundo">Mundo</a>
+                                            
+      
+    </li>
+     
+        
+    <li  class='Polícia' data-toggle="collapse" data-target="#Polícia" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a>
+            
+      
+    </li>
+     
+        
+    <li  class='Rural' data-toggle="collapse" data-target="#Rural" style="cursor:pointer;"><a href="/not%C3%ADcias/rural">Rural</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Rural" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/rural/expointer">Expointer</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/expodireto">Expodireto</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='Ensino' data-toggle="collapse" data-target="#Ensino" style="cursor:pointer;"><a href="/not%C3%ADcias/ensino">Ensino</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Ensino" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/ensino/vestibular">Vestibular</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='Esportes' data-toggle="collapse" data-target="#Esportes" style="cursor:pointer;"><a href="/esportes">Esportes</a>
+                                                                                    
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Esportes" class="dropdown-menuprincipal collapse">
+                                                                                <li><a href="/esportes/selecaobrasileira">Seleção Brasileira</a></li>
+                                                <li><a href="/esportes/copadomundo">Copa do Mundo</a></li>
+                                                <li><a href="/esportes/olimp%C3%ADada">Olimpíada</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='Grêmio' data-toggle="collapse" data-target="#Grêmio" style="cursor:pointer;"><a href="/esportes/gr%C3%AAmio">Grêmio</a>
+            
+      
+    </li>
+     
+        
+    <li  class='Inter' data-toggle="collapse" data-target="#Inter" style="cursor:pointer;"><a href="/esportes/inter">Inter</a>
+            
+      
+    </li>
+     
+        
+    <li  class='ArteAgenda' data-toggle="collapse" data-target="#ArteAgenda" style="cursor:pointer;"><a href="/arteagenda">Arte & Agenda</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="ArteAgenda" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/arteagenda/carnaval">Carnaval</a></li>
+                                                <li><a href="/arteagenda/feiradolivro">Feira do Livro</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='Especial' data-toggle="collapse" data-target="#Especial" style="cursor:pointer;"><a href="/especial">Especial</a>
+            
+      
+    </li>
+  
+  </ul> 
+
+  <ul class="menuside">
+    
+     
+        
+    <li  class='CorreioMaisInterior' data-toggle="collapse" data-target="#CorreioMaisInterior" style="cursor:pointer;"><a href="/correiomaisinterior">Correio Mais Interior</a>
+            
+      
+    </li>
+     
+        
+    <li  class='CorreioMaisConteúdo' data-toggle="collapse" data-target="#CorreioMaisConteúdo" style="cursor:pointer;"><a href="/correiomaisconteudo">Correio Mais Conteúdo</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="CorreioMaisConteúdo" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/correiomaisconteudo/cooperativismo">Cooperativismo</a></li>
+                                                <li><a href="/correiomaisconteudo/universidades-comunit%C3%A1rias">Universidades Comunitárias</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='JornalcomTecnologia' data-toggle="collapse" data-target="#JornalcomTecnologia" style="cursor:pointer;"><a href="/jornalcomtecnologia">Jornal com Tecnologia</a>
+            
+      
+    </li>
+     
+        
+    <li  class='VivaBem' data-toggle="collapse" data-target="#VivaBem" style="cursor:pointer;"><a href="/vivabem">Viva Bem</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="VivaBem" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/vivabem/qualidadedevida">Qualidade de vida</a></li>
+                                                <li><a href="/vivabem/alimentacao">Alimentação</a></li>
+                                                <li><a href="/vivabem/exerciciosfisicos">Exercícios físicos</a></li>
+                                                <li><a href="/vivabem/maternidade">Maternidade</a></li>
+                                                <li><a href="/vivabem/saude">Saúde</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li  class='BellaMais' data-toggle="collapse" data-target="#BellaMais" style="cursor:pointer;"><a href="https://bellamais.correiodopovo.com.br/">Bella Mais</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="BellaMais" class="dropdown-menuprincipal collapse">
+                                    <li><a href="https://bellamais.correiodopovo.com.br/modabeleza">Moda & Beleza</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/estilo-de-vida">Estilo de Vida</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/relacionamentos">Relacionamentos</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/negociosefinancas">Negócios & Finanças </a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/bemestar">Bem-estar</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/colunistas">Colunistas</a></li>
+                                                                          </ul>
+      
+    </li>
+  
+  </ul> 
+
+  
+                          
+
+
+
+	
+				
+						
+					<ul class="menuside">
+			<li class="menuhead">Correio do Povo</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/?FC=CONOSCO">Trabalhe conosco</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/politicadeprivacidade">Política de Privacidade</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/TermoeCondicoesdeUso">Termos e condições de Uso</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Fale conosco</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=ATENDIMENTO">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=GERAL">Fale com a Redação</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Anuncie</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/">Soluções para seu negócio</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/MIDIAKIT2021.pdf">Mídia Kit</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/TABELA_COMERCIAL_2021-v4.pdf">Tabela Comercial</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Central do Assinante</li>
+
+								
+						
+					<li><a href="https://digital.correiodopovo.com.br">Jornal Digital</a></li>
+					
+						
+					<li><a href="http://leitor.correiodopovo.com.br">Loja Correio do Povo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="/cpmaissaude">CP + Saúde</a></li>
+					
+						
+					<li><a href="http://ejcj.cpovo.net/">Portal Administrativo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Provedor</a></li>
+					
+						
+					<li><a href="https://outlook.office.com/">Webmail</a></li>
+					
+						
+					<li><a href="http://minhaconta.correiodopovo.com.br/">Minha Conta</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Suporte Técnico</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Grupo Record RS</li>
+
+								
+						
+					<li><a href="/">Correio do Povo</a></li>
+					
+						
+					<li><a href="https://guaiba.com.br/">Rádio Guaíba</a></li>
+					
+						
+					<li><a href="https://www.recordtvrs.com.br/">Tv Record RS</a></li>
+					
+						
+					<li><a href="https://www.R7.com">R7.com</a></li>
+				</ul>
+
+
+        
+      
+    </div>
+
+    <div class="navbar-top container-max topo">
+      <div class="menu item1">
+        <ul class="nav navbar-nav navbar-left">
+          <li>
+            <a style="cursor:pointer;font-size: 23px;padding-right: 0px;" onclick="openNav()">&#9776;</a>
+          </li>
+          <li>
+            <a style="cursor:pointer" onclick="openNav()">menu</a>
+          </li>
+        </ul>
+        <div class="busca">
+                    <div class="nav-search">
+            
+
+    <form
+      class="form-search form-inline"
+      action="/busca"
+      method="get">
+      	<button type="submit"></button>
+        <input type="text" name="q" value="" class="form-control search-query" placeholder="Buscar..." />
+    </form>
+          </div>
+        </div>
+      </div>
+      <div class="logo  item2">
+        <a href="/"><img src="https://portal.correiodopovo.com.br/imagens/Correio_do_Povo.png" alt="capa" title="Capa"></a>
+      </div>
+      <div class="login  item3">
+        <div class="assinar">
+          <a href="http://leitor.correiodopovo.com.br/?tag=assinetopo" target="_Blank">Assine</a>
+        </div>
+        <div class="entrar">
+          <a href="http://digital.correiodopovo.com.br" target="_Blank">Entrar</a>
+          <span class="glyphicon glyphicon-user"></span>
+        </div>
+      </div>
+    </div>
+    <div class="RS"></div> 
+    <div class="container-max menutags">
+      <div class="menutagsconteiner">
+        <div class="social">
+          <div class="listasocial">
+            <ul>
+              <li>
+                <a href="https://www.linkedin.com/company/correio-do-povo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/linkedin.png" alt="Linkedin" title="Linkedin"></a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/correiodopovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/instagram.png" alt="Instagram" title="Instagram"></a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/CorreioDoPovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/facebook.png" alt="Facebook" title="Facebook"></a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCphn4Z4L2dGNoh7jz_99EOA" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/youtube.png" alt="Youtube" title="Youtube"></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/correio_dopovo" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/twitter.png" alt="Twitter" title="Twitter"></a>
+              </li>
+            </ul>
+          </div>        
+        </div>
+        <div id="temperaturatopo"></div>
+        <div class="tags">
+
+                    <div id="owltags" class="tags-carousel tags-theme">
+            
+                          
+
+
+
+				<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/not%C3%ADcias/geral/coronavirus">CORONAVÍRUS</a>
+		</div>
+			<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/topicos/Tag/Vacina">VACINA</a>
+		</div>
+			<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/topicos/Tag/CPI%20da%20Covid">CPI DA COVID</a>
+		</div>
+			<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/topicos/Tag/Libertadores%20">LIBERTADORES</a>
+		</div>
+	
+
+        
+                </div>
+                      <div class="tags-theme">
+                <div class="tags-controls">
+                    <div class="custom-nav tags-nav"></div>
+                </div>
+            </div>
+<script>
+$(document).ready(function() {
+    $("#owltags").tagsCarousel({
+    margin:40,
+    loop:false,
+    autoWidth:true,
+    items:6,
+    nav:true,
+    dots:false,
+    navText: [
+        '<i class="fa fa-angle-left" aria-hidden="true"></i>',
+        '<i class="fa fa-angle-right" aria-hidden="true"></i>'
+    ],
+    navContainer: '.custom-nav'
+    });
+  });
+</script>
+        </div>
+      </div>
+    </div>
+
+                                                                  
+                      
+                          
+
+
+
+
+			<div class="container-max adsconteiner">
+			<div id="sas_31545"></div>
+			<script type="application/javascript">
+			    sas.cmd.push(function() {
+			        sas.call("std", {
+			            siteId: 71754, // 
+			            pageId: 541032, 
+			            formatId: 31545, 
+			            target: sas_target // Targeting
+			        });
+			    });
+			</script>
+		</div>
+	
+         
+      
+                            
+                                                <div class="container-max topopagina">
+  <div class="content">
+    <div class="head">
+      <a href="/Busca">
+        <h2 class="medio">
+          Busca
+        </h2>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="container-max">
+	<div id="sas_53988" style="text-align:center"></div>
+		<script type="application/javascript">
+			if ((window.location.href.indexOf("1.") > -1) && (leitorsuperbannermeio == 1))
+			{
+				sas.cmd.push(function() {
+					sas.call("std", {
+						siteId: 71754, // 
+						pageId: 541032, 
+						formatId: 53988, 
+						target: sas_target // Targeting
+					});
+				});
+			}
+		</script>
+</div>
+                              
+              
+                           
+
+                        
+                  
+                
+                                
+                
+                
+                                                  <div class="container">
+                    <div class="row linha">
+                      <div class="col-md-8">
+
+                          
+                            
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			<div class="Blogshead ">
+				<div class="head">
+					<h2 class="medio">
+											<a href="/ultimas" alt="últimas Notícias" title="últimas Notícias">últimas Notícias</a>
+										</h2>
+				</div>
+			</div>
+
+		
+		<div id="1548951703000" class="">
+							
+	
+		
+	
+				
+																		
+	
+			
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Arte &amp; Agenda  - 20/05/2021 | 14:00</span>
+			    <h3> 
+			        <a href="/arteagenda/disco-homenageia-alegre-corr%C3%AAa-1.622909" title="Disco homenageia Alegre Corrêa" >Disco homenageia Alegre Corrêa</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/arteagenda/disco-homenageia-alegre-corr%C3%AAa-1.622909" title="Baixista e compositor paulista Eduardo Machado lança "Eduardo Machado Toca Alegre" como uma distinção para o músico de Passo Fundo, radicado em Florianópolis">Baixista e compositor paulista Eduardo Machado lança "Eduardo Machado Toca Alegre" como uma distinção para o músico de Passo Fundo, radicado em Florianópolis</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/arteagenda/disco-homenageia-alegre-corr%C3%AAa-1.622909" title="Disco homenageia Alegre Corrêa" >
+
+						
+																								  <img src="/image/policy:1.622916:1621525045/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Pol&iacute;cia  - 20/05/2021 | 13:59</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/pol%C3%ADcia/descartada-participa%C3%A7%C3%A3o-de-ga%C3%BAchos-no-caso-do-casal-assassinado-em-chapec%C3%B3-em-sc-1.622971" title="Descartada participação de gaúchos no caso do casal assassinado em Chapecó, em SC" >Descartada participação de gaúchos no caso do casal assassinado em Chapecó, em SC</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/pol%C3%ADcia/descartada-participa%C3%A7%C3%A3o-de-ga%C3%BAchos-no-caso-do-casal-assassinado-em-chapec%C3%B3-em-sc-1.622971" title="Veículo das vítimas havia sido encontrado três dias depois do desaparecimento na cidade de Trindade do Sul, no RS">Veículo das vítimas havia sido encontrado três dias depois do desaparecimento na cidade de Trindade do Sul, no RS</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/pol%C3%ADcia/descartada-participa%C3%A7%C3%A3o-de-ga%C3%BAchos-no-caso-do-casal-assassinado-em-chapec%C3%B3-em-sc-1.622971" title="Descartada participação de gaúchos no caso do casal assassinado em Chapecó, em SC" >
+
+						
+																								  <img src="/image/policy:1.622973:1621529803/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Jornal com Tecnologia  - 20/05/2021 | 13:54</span>
+			    <h3> 
+			        <a href="/jornalcomtecnologia/usu%C3%A1rios-podem-se-candidatar-%C3%A0-verifica%C3%A7%C3%A3o-de-perfil-do-twitter-1.622984" title="Usuários podem se candidatar à verificação de perfil do Twitter" >Usuários podem se candidatar à verificação de perfil do Twitter</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/jornalcomtecnologia/usu%C3%A1rios-podem-se-candidatar-%C3%A0-verifica%C3%A7%C3%A3o-de-perfil-do-twitter-1.622984" title="Plataforma libera, a partir desta 5ª feira, formulário que permite que usuários se inscrevam para receber o famoso “selinho azul”">Plataforma libera, a partir desta 5ª feira, formulário que permite que usuários se inscrevam para receber o famoso “selinho azul”</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/jornalcomtecnologia/usu%C3%A1rios-podem-se-candidatar-%C3%A0-verifica%C3%A7%C3%A3o-de-perfil-do-twitter-1.622984" title="Usuários podem se candidatar à verificação de perfil do Twitter" >
+
+						
+																								  <img src="/image/policy:1.416807:1588196514/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Cidades  - 20/05/2021 | 13:44</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/cidades/mil-cestas-b%C3%A1sicas-come%C3%A7aram-a-ser-distribu%C3%ADdas-em-uruguaiana-nesta-quinta-feira-1.622972" title="Mil cestas básicas começaram a ser distribuídas em Uruguaiana nesta quinta-feira" >Mil cestas básicas começaram a ser distribuídas em Uruguaiana nesta quinta-feira</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/cidades/mil-cestas-b%C3%A1sicas-come%C3%A7aram-a-ser-distribu%C3%ADdas-em-uruguaiana-nesta-quinta-feira-1.622972" title="Em 2020, a prefeitura entregou 10 mil cestas básicas às famílias em vulnerabilidade social">Em 2020, a prefeitura entregou 10 mil cestas básicas às famílias em vulnerabilidade social</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/cidades/mil-cestas-b%C3%A1sicas-come%C3%A7aram-a-ser-distribu%C3%ADdas-em-uruguaiana-nesta-quinta-feira-1.622972" title="Mil cestas básicas começaram a ser distribuídas em Uruguaiana nesta quinta-feira" >
+
+						
+																								  <img src="/image/policy:1.622976:1621528841/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Pol&iacute;tica  - 20/05/2021 | 13:32</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/pol%C3%ADtica/pazuello-volta-a-dizer-que-decis%C3%B5es-na-sa%C3%BAde-s%C3%A3o-compartilhadas-1.622965" title="Pazuello volta a dizer que decisões na Saúde são compartilhadas" >Pazuello volta a dizer que decisões na Saúde são compartilhadas</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/pol%C3%ADtica/pazuello-volta-a-dizer-que-decis%C3%B5es-na-sa%C3%BAde-s%C3%A3o-compartilhadas-1.622965" title="Na CPI da Covid, ex-ministro alegou decisões combinadas em tripartite com o Conass e o Conasems">Na CPI da Covid, ex-ministro alegou decisões combinadas em tripartite com o Conass e o Conasems</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/pol%C3%ADtica/pazuello-volta-a-dizer-que-decis%C3%B5es-na-sa%C3%BAde-s%C3%A3o-compartilhadas-1.622965" title="Pazuello volta a dizer que decisões na Saúde são compartilhadas" >
+
+						
+																								  <img src="/image/policy:1.622982:1621529188/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      	            <div class="element-teaser titulofoto listamaterias" style="padding-top: 0;">
+<ins class="adsbygoogle"
+	style="display:block; text-align:center;"
+        data-ad-format="fluid"
+        data-ad-layout="in-article"
+        data-ad-client="ca-pub-3488053582622085"
+        data-ad-slot="4227639763">
+</ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+	      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Economia  - 20/05/2021 | 13:32</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/economia/sebasti%C3%A3o-melo-aposta-no-empreendedorismo-para-o-crescimento-econ%C3%B4mico-de-porto-alegre-1.622962" title="Sebastião Melo aposta no empreendedorismo para o crescimento econômico de Porto Alegre" >Sebastião Melo aposta no empreendedorismo para o crescimento econômico de Porto Alegre</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/economia/sebasti%C3%A3o-melo-aposta-no-empreendedorismo-para-o-crescimento-econ%C3%B4mico-de-porto-alegre-1.622962" title="O cenário e perspectivas para o futuro da cidade foi o tema da 15ª edição da Lide Live promovida pelo Grupo de Líderes Empresariais ">O cenário e perspectivas para o futuro da cidade foi o tema da 15ª edição da Lide Live promovida pelo Grupo de Líderes Empresariais </a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/economia/sebasti%C3%A3o-melo-aposta-no-empreendedorismo-para-o-crescimento-econ%C3%B4mico-de-porto-alegre-1.622962" title="Sebastião Melo aposta no empreendedorismo para o crescimento econômico de Porto Alegre" >
+
+						
+																								  <img src="/image/policy:1.622981:1621529021/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Mundo  - 20/05/2021 | 13:30</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/mundo/universidade-de-oxford-se-recusa-a-remover-est%C3%A1tua-do-colonizador-rhodes-1.622910" title="Universidade de Oxford se recusa a remover estátua do colonizador Rhodes" >Universidade de Oxford se recusa a remover estátua do colonizador Rhodes</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/mundo/universidade-de-oxford-se-recusa-a-remover-est%C3%A1tua-do-colonizador-rhodes-1.622910" title="Instituição de ensino alega, entre outros fatores, desafios regulamentares e financeiros">Instituição de ensino alega, entre outros fatores, desafios regulamentares e financeiros</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/mundo/universidade-de-oxford-se-recusa-a-remover-est%C3%A1tua-do-colonizador-rhodes-1.622910" title="Universidade de Oxford se recusa a remover estátua do colonizador Rhodes" >
+
+						
+																								  <img src="/image/policy:1.622969:1621528407/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Pol&iacute;tica  - 20/05/2021 | 13:27</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/pol%C3%ADtica/em-reuni%C3%A3o-embaixador-da-china-diz-estar-disposto-a-ajudar-o-brasil-1.622959" title="Em reunião, embaixador da China diz estar disposto a ajudar o Brasil" >Em reunião, embaixador da China diz estar disposto a ajudar o Brasil</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/pol%C3%ADtica/em-reuni%C3%A3o-embaixador-da-china-diz-estar-disposto-a-ajudar-o-brasil-1.622959" title="De acordo com fontes ouvidas pela reportagem, João Doria, governador de São Paulo, propôs uma viagem para a China com uma comitiva brasileira">De acordo com fontes ouvidas pela reportagem, João Doria, governador de São Paulo, propôs uma viagem para a China com uma comitiva brasileira</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/pol%C3%ADtica/em-reuni%C3%A3o-embaixador-da-china-diz-estar-disposto-a-ajudar-o-brasil-1.622959" title="Em reunião, embaixador da China diz estar disposto a ajudar o Brasil" >
+
+						
+																								  <img src="/image/policy:1.622970:1621528409/image.png?a=2%3A1&q=0.6&w=360&$p$a$q$w=6c73477"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      					
+    
+		    		    
+		<div class="element-teaser titulofoto listamaterias  ">
+
+			
+												
+			
+		    
+					    <div class=" titulo"> 
+		    			    				    <span class="section">Cidades  - 20/05/2021 | 13:27</span>
+			    <h3> 
+			        <a href="/not%C3%ADcias/cidades/escola-municipal-%C3%A9-fechada-por-detec%C3%A7%C3%A3o-de-casos-da-covid-19-em-uruguaiana-1.622954" title="Escola municipal é fechada por detecção de casos da Covid-19 em Uruguaiana" >Escola municipal é fechada por detecção de casos da Covid-19 em Uruguaiana</a>
+			    </h3>
+			    				    						<p class=" titulo"><a href="/not%C3%ADcias/cidades/escola-municipal-%C3%A9-fechada-por-detec%C3%A7%C3%A3o-de-casos-da-covid-19-em-uruguaiana-1.622954" title="Local deve permanecer fechado até dia 24 de maio">Local deve permanecer fechado até dia 24 de maio</a></p>
+												</div>
+
+						    			      <div class="image">
+			        <a href="/not%C3%ADcias/cidades/escola-municipal-%C3%A9-fechada-por-detec%C3%A7%C3%A3o-de-casos-da-covid-19-em-uruguaiana-1.622954" title="Escola municipal é fechada por detecção de casos da Covid-19 em Uruguaiana" >
+
+						
+																								  <img src="/image/policy:1.622956:1621527784/image.jpg?a=2%3A1&q=0.6&w=360&$p$a$q$w=8a8d975"/>
+																								        </a>
+			      </div>
+			    			
+		</div>
+
+			      			
+						
+
+							
+																        <script>
+					            $(document).ready(function() {
+					                IntScrollInfinito('#1548951703000','/cmlink/%C3%BAltimas-not%C3%ADcias-7.178',12,'.btnscroll');
+					            }); 
+					        </script>
+ 				        					 
+						
+					</div>
+
+	
+
+
+		
+
+        
+                                
+
+                      </div>
+                   
+                      <div class="col-md-4">
+
+                                                      
+                          <div class="element-list ultimas">
+      <h2>Mais Lidas</h2>
+    <ul class="">
+        <li class="clearfix">
+                                <a href="/esportes/deportivo-t%C3%A1chira-goleia-always-ready-por-7-a-2-e-complica-o-inter-na-libertadores-1.622720"><div class='numero'>1</div> <div class='texto'>Deportivo T&aacute;chira goleia Always Ready por 7 a 2 e complica o Inter na Libertadores</div></a>
+        </li>
+      <li class="clearfix">
+                                <a href="/esportes/gr%C3%AAmio/douglas-costa-ser%C3%A1-emprestado-ao-gr%C3%AAmio-at%C3%A9-a-metade-de-2022-1.622803"><div class='numero'>2</div> <div class='texto'>Douglas Costa ser&aacute; emprestado ao Gr&ecirc;mio at&eacute; a metade de 2022</div></a>
+        </li>
+      <li class="clearfix">
+                                <a href="/not%C3%ADcias/mundo/cientistas-criam-antiviral-com-99-9-de-efic%C3%A1cia-contra-o-coronav%C3%ADrus-1.622181"><div class='numero'>3</div> <div class='texto'>Cientistas criam antiviral com 99,9% de efic&aacute;cia contra o coronav&iacute;rus</div></a>
+        </li>
+      <li class="clearfix">
+                                <a href="/esportes/inter/inter-enfrenta-o-olimpia-pressionado-por-necessidade-de-pontuar-na-libertadores-1.622680"><div class='numero'>4</div> <div class='texto'>Inter enfrenta o Olimpia pressionado por necessidade de pontuar na Libertadores </div></a>
+        </li>
+      <li class="clearfix">
+                                <a href="/esportes/gr%C3%AAmio/gr%C3%AAmio-encaminha-acertos-finais-e-deve-anunciar-douglas-costa-at%C3%A9-sexta-feira-1.622705"><div class='numero'>5</div> <div class='texto'>Gr&ecirc;mio encaminha acertos finais e deve anunciar Douglas Costa at&eacute; sexta-feira</div></a>
+        </li>
+    </ul> 
+</div>
+                   	<!---->
+
+	                  
+
+	
+
+
+
+	
+		<div class="adsplaceholder" style="height: 300px; max-width: 360px; margin-left: auto; margin-right: auto; overflow: hidden; margin-bottom: 10px; width: 100%;"> 
+		<p style="color: #dddddd; font-size: .6em; margin-bottom: 0px; text-transform: uppercase;">publicidade</p>
+					<AdsPlaceholder style="align-items: center; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; height: 300px; background-color: #f7f6f5;">
+				<div id="sas_31546" style="max-height: 280px; max-width: 360px;"></div>
+				<script type="application/javascript">
+				    sas.cmd.push(function() {
+				        sas.call("std", {
+				            siteId: 71754, // 
+				            pageId: 541032, 
+				            formatId: 31546, 
+				            target: sas_target // Targeting
+				        });
+				    });
+				</script>
+
+			</AdsPlaceholder>
+				</div>
+	
+         
+                                
+                      </div>
+                    </div>
+                  </div>
+                            <div class="container rodape">
+      <div class="row linha">
+        <div class="col-md-12">
+          <div class="rodapecontent">
+            <div class="item1"><img src="https://portal.correiodopovo.com.br/imagens/Correiodopovo_horizontal.png" alt="Correio do Povo" title="Correio do Povo"></div><div class="RS"></div>     <div class="item2 texto">DESDE 1º DE OUTUBRO 1895</div>
+          </div>        
+        </div>
+      </div>
+    </div>
+    <footer>      
+                   
+                          	<script>
+document.domain = "correiodopovo.com.br"; 
+        console.log('1');
+
+        var IS_VISITOR = true; IS_FREEMIUM = true; var IS_CUSTOMER = true;
+        
+        // Execucao Script
+        javascript:(function () {
+            var el = document.createElement("script");
+
+
+            var url = 'https://paywall.correiodopovo.com.br/wid/script/1?tags=' + tagm + '&loc=' + location.href + '&is_visitor=' + IS_VISITOR + "&is_freemium=" + IS_FREEMIUM +  "&is_customer=" + IS_CUSTOMER;
+
+             console.log(url);
+
+            el.src = url;
+             // Body appender
+             document.body.appendChild(el); })(); </script>
+
+	                  
+
+
+
+
+			<div class="container-max adsconteiner">
+			<div id="sas_38077"></div>
+			<script type="application/javascript">
+			    sas.cmd.push(function() {
+			        sas.call("std", {
+			            siteId: 71754, // 
+			            pageId: 541032, 
+			            formatId: 38077, 
+			            target: sas_target // Targeting
+			        });
+			    });
+			</script>
+		</div>
+	
+                   
+
+
+
+
+			<div class="container-max adsconteiner">
+			<div id="sas_31549"></div>
+			<script type="application/javascript">
+			    sas.cmd.push(function() {
+			        sas.call("std", {
+			            siteId: 71754, // 
+			            pageId: 541032, 
+			            formatId: 31549, 
+			            target: sas_target // Targeting
+			        });
+			    });
+			</script>
+		</div>
+	
+         
+                        <div class="container">
+            <div class="row linha">
+              <div class="col-md-12">
+                <div class="linkrodape">
+                  
+  <ul class="menuside">
+    
+     
+            
+    <li  class='Colunistasf' data-toggle="collapse" data-target="#Colunistasf" style="cursor:pointer;"><a href="/colunistas">Colunistas</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Colunistasf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/colunistas/alexandre-garcia">Alexandre Garcia</a></li>
+                                                <li><a href="/colunistas/eduardo-conill">Eduardo Conill</a></li>
+                                                <li><a href="/colunistas/guilherme-baumhardt">Guilherme Baumhardt</a></li>
+                                                <li><a href="/colunistas/jurandir-soares">Jurandir Soares</a></li>
+                                                <li><a href="/colunistas/luiz-coronel">Luiz Coronel</a></li>
+                                                <li><a href="/colunistas/luiz-gonzaga-lopes">Luiz Gonzaga Lopes</a></li>
+                                                <li><a href="/colunistas/nando-gross">Nando Gross</a></li>
+                                                                      <li><a href="/colunistas/taline-oppitz">Taline Oppitz</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='Blogsf' data-toggle="collapse" data-target="#Blogsf" style="cursor:pointer;"><a href="/blogs">Blogs</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Blogsf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/blogs/artigos">Artigos</a></li>
+                                                <li><a href="/blogs/bichoamigo">Bicho Amigo</a></li>
+                                                <li><a href="/blogs/campereada">Campereada</a></li>
+                                                <li><a href="/blogs/carrosemotos">Carros & Motos</a></li>
+                                                <li><a href="/blogs/cenarock">Cena Rock</a></li>
+                                                <li><a href="/blogs/cinecp">Cine CP</a></li>
+                                                <li><a href="/blogs/correiofeminino">Correio Feminino</a></li>
+                                                                      <li><a href="/blogs/di%C3%A1logos">Diálogos</a></li>
+                                                <li><a href="/blogs/fotocorreio">FotoCorreio</a></li>
+                                                <li><a href="/blogs/h%C3%A1-um-s%C3%A9culo-no-cp">Há um Século no CP</a></li>
+                                                <li><a href="/blogs/hiltormombach">Hiltor Mombach</a></li>
+                                                <li><a href="/blogs/juremirmachado">Juremir Machado da Silva</a></li>
+                                                                      <li><a href="/blogs/livrosamais">Livros A+</a></li>
+                                                                      <li><a href="/blogs/oficinadejornalismo">Oficina de Jornalismo</a></li>
+                                                <li><a href="/blogs/oscarbessi">Oscar Bessi</a></li>
+                                                <li><a href="/blogs/pitlane">Pitlane</a></li>
+                                                <li><a href="/blogs/planodecarreira">Plano de Carreira</a></li>
+                                                    </ul>
+      
+    </li>
+     
+            
+    <li  class='Podcastsf' data-toggle="collapse" data-target="#Podcastsf" style="cursor:pointer;"><a href="/podcasts">Podcasts</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Podcastsf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/podcasts/direto-ao-ponto">Direto ao Ponto</a></li>
+                                                <li><a href="/podcasts/papo-com-juremir">Papo com Juremir</a></li>
+                                                <li><a href="/podcasts/h%C3%A1-um-s%C3%A9culo-no-cp">Há um Século no CP</a></li>
+                                                <li><a href="/podcasts/cp-rural">CP Rural</a></li>
+                                                <li><a href="/podcasts/cp-futebol-clube">CP Futebol Clube</a></li>
+                                                <li><a href="/podcasts/matriz">Matriz</a></li>
+                                                <li><a href="/podcasts/forense">Forense</a></li>
+                                                <li><a href="/podcasts/n%C3%A3o-tem-fora">Não Tem Fora</a></li>
+                                                <li><a href="/podcasts/outros-mundos">Outros Mundos</a></li>
+                                                <li><a href="/podcasts/campereadas">Campereadas</a></li>
+                                                <li><a href="/podcasts/artedebater">ArteDebater</a></li>
+                                                <li><a href="/podcasts/livros-a">Livros A+</a></li>
+                                                <li><a href="/podcasts/cpop">CPop</a></li>
+                                                <li><a href="/podcasts/cena-rock">Cena Rock</a></li>
+                              </ul>
+      
+    </li>
+  
+  </ul>
+
+  <ul class="menuside">
+    
+     
+            
+    <li  class='Notíciasf' data-toggle="collapse" data-target="#Notíciasf" style="cursor:pointer;"><a href="/not%C3%ADcias">Notícias</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Notíciasf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/2.892">Perspectiva</a></li>
+                                                                                            <li><a href="/not%C3%ADcias/ensino">Ensino</a></li>
+                                                                                            <li><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a></li>
+                                                                          </ul>
+      
+    </li>
+     
+            
+    <li  class='Políticaf' data-toggle="collapse" data-target="#Políticaf" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADtica">Política</a>
+                                            
+      
+    </li>
+     
+            
+    <li  class='Economiaf' data-toggle="collapse" data-target="#Economiaf" style="cursor:pointer;"><a href="/not%C3%ADcias/economia">Economia</a>
+                                            
+      
+    </li>
+     
+            
+    <li  class='Geralf' data-toggle="collapse" data-target="#Geralf" style="cursor:pointer;"><a href="/not%C3%ADcias/geral">Geral</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Geralf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/geral/coronavirus">Coronavírus</a></li>
+                                                <li><a href="/not%C3%ADcias/geral/aniversario-de-porto-alegre">Aniversario de Porto Alegre</a></li>
+                                                <li><a href="/not%C3%ADcias/geral/semanafarroupilha">Semana Farroupilha</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='Cidadesf' data-toggle="collapse" data-target="#Cidadesf" style="cursor:pointer;"><a href="/not%C3%ADcias/cidades">Cidades</a>
+            
+      
+    </li>
+     
+            
+    <li  class='Mundof' data-toggle="collapse" data-target="#Mundof" style="cursor:pointer;"><a href="/not%C3%ADcias/mundo">Mundo</a>
+                                            
+      
+    </li>
+     
+            
+    <li  class='Políciaf' data-toggle="collapse" data-target="#Políciaf" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a>
+            
+      
+    </li>
+     
+            
+    <li  class='Ruralf' data-toggle="collapse" data-target="#Ruralf" style="cursor:pointer;"><a href="/not%C3%ADcias/rural">Rural</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Ruralf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/rural/expointer">Expointer</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/expodireto">Expodireto</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='Ensinof' data-toggle="collapse" data-target="#Ensinof" style="cursor:pointer;"><a href="/not%C3%ADcias/ensino">Ensino</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Ensinof" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/ensino/vestibular">Vestibular</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='Esportesf' data-toggle="collapse" data-target="#Esportesf" style="cursor:pointer;"><a href="/esportes">Esportes</a>
+                                                                                    
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Esportesf" class="dropdown-menuprincipal collapse">
+                                                                                <li><a href="/esportes/selecaobrasileira">Seleção Brasileira</a></li>
+                                                <li><a href="/esportes/copadomundo">Copa do Mundo</a></li>
+                                                <li><a href="/esportes/olimp%C3%ADada">Olimpíada</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='Grêmiof' data-toggle="collapse" data-target="#Grêmiof" style="cursor:pointer;"><a href="/esportes/gr%C3%AAmio">Grêmio</a>
+            
+      
+    </li>
+     
+            
+    <li  class='Interf' data-toggle="collapse" data-target="#Interf" style="cursor:pointer;"><a href="/esportes/inter">Inter</a>
+            
+      
+    </li>
+     
+            
+    <li  class='ArteAgendaf' data-toggle="collapse" data-target="#ArteAgendaf" style="cursor:pointer;"><a href="/arteagenda">Arte & Agenda</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="ArteAgendaf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/arteagenda/carnaval">Carnaval</a></li>
+                                                <li><a href="/arteagenda/feiradolivro">Feira do Livro</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='Especialf' data-toggle="collapse" data-target="#Especialf" style="cursor:pointer;"><a href="/especial">Especial</a>
+            
+      
+    </li>
+  
+  </ul> 
+
+  <ul class="menuside">
+    
+     
+            
+    <li  class='CorreioMaisInteriorf' data-toggle="collapse" data-target="#CorreioMaisInteriorf" style="cursor:pointer;"><a href="/correiomaisinterior">Correio Mais Interior</a>
+            
+      
+    </li>
+     
+            
+    <li  class='CorreioMaisConteúdof' data-toggle="collapse" data-target="#CorreioMaisConteúdof" style="cursor:pointer;"><a href="/correiomaisconteudo">Correio Mais Conteúdo</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="CorreioMaisConteúdof" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/correiomaisconteudo/cooperativismo">Cooperativismo</a></li>
+                                                <li><a href="/correiomaisconteudo/universidades-comunit%C3%A1rias">Universidades Comunitárias</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='JornalcomTecnologiaf' data-toggle="collapse" data-target="#JornalcomTecnologiaf" style="cursor:pointer;"><a href="/jornalcomtecnologia">Jornal com Tecnologia</a>
+            
+      
+    </li>
+     
+            
+    <li  class='VivaBemf' data-toggle="collapse" data-target="#VivaBemf" style="cursor:pointer;"><a href="/vivabem">Viva Bem</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="VivaBemf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/vivabem/qualidadedevida">Qualidade de vida</a></li>
+                                                <li><a href="/vivabem/alimentacao">Alimentação</a></li>
+                                                <li><a href="/vivabem/exerciciosfisicos">Exercícios físicos</a></li>
+                                                <li><a href="/vivabem/maternidade">Maternidade</a></li>
+                                                <li><a href="/vivabem/saude">Saúde</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li  class='BellaMaisf' data-toggle="collapse" data-target="#BellaMaisf" style="cursor:pointer;"><a href="https://bellamais.correiodopovo.com.br/">Bella Mais</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="BellaMaisf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="https://bellamais.correiodopovo.com.br/modabeleza">Moda & Beleza</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/estilo-de-vida">Estilo de Vida</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/relacionamentos">Relacionamentos</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/negociosefinancas">Negócios & Finanças </a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/bemestar">Bem-estar</a></li>
+                                                <li><a href="https://bellamais.correiodopovo.com.br/colunistas">Colunistas</a></li>
+                                                                          </ul>
+      
+    </li>
+  
+  </ul> 
+
+  
+                          
+
+
+
+	
+				
+						
+					<ul class="menuside">
+			<li class="menuhead">Correio do Povo</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/?FC=CONOSCO">Trabalhe conosco</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/politicadeprivacidade">Política de Privacidade</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/TermoeCondicoesdeUso">Termos e condições de Uso</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Fale conosco</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=ATENDIMENTO">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=GERAL">Fale com a Redação</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Anuncie</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/">Soluções para seu negócio</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/MIDIAKIT2021.pdf">Mídia Kit</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/TABELA_COMERCIAL_2021-v4.pdf">Tabela Comercial</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Central do Assinante</li>
+
+								
+						
+					<li><a href="https://digital.correiodopovo.com.br">Jornal Digital</a></li>
+					
+						
+					<li><a href="http://leitor.correiodopovo.com.br">Loja Correio do Povo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="/cpmaissaude">CP + Saúde</a></li>
+					
+						
+					<li><a href="http://ejcj.cpovo.net/">Portal Administrativo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Provedor</a></li>
+					
+						
+					<li><a href="https://outlook.office.com/">Webmail</a></li>
+					
+						
+					<li><a href="http://minhaconta.correiodopovo.com.br/">Minha Conta</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Suporte Técnico</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Grupo Record RS</li>
+
+								
+						
+					<li><a href="/">Correio do Povo</a></li>
+					
+						
+					<li><a href="https://guaiba.com.br/">Rádio Guaíba</a></li>
+					
+						
+					<li><a href="https://www.recordtvrs.com.br/">Tv Record RS</a></li>
+					
+						
+					<li><a href="https://www.R7.com">R7.com</a></li>
+				</ul>
+
+
+        
+      
+                </div>
+                <div class="newsletter">
+
+                  <div class="social">
+                    <div class="listasocial">
+                      <span>Siga o Correio do Povo:</span>
+                      <ul>
+                        <li>
+                          <a href="https://www.linkedin.com/company/correio-do-povo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/linkedin.png" alt="Linkedin" title="Linkedin"></a>
+                        </li>
+                        <li>
+                          <a href="https://www.instagram.com/correiodopovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/instagram.png" alt="Instagram" title="Instagram"></a>
+                        </li>
+                        <li>
+                          <a href="https://www.facebook.com/CorreioDoPovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/facebook.png" alt="Facebook" title="Facebook"></a>
+                        </li>
+                        <li>
+                          <a href="https://www.youtube.com/channel/UCphn4Z4L2dGNoh7jz_99EOA" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/youtube.png" alt="Youtube" title="Youtube"></a>
+                        </li>
+                        <li>
+                          <a href="https://twitter.com/correio_dopovo" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/twitter.png" alt="Twitter" title="Twitter"></a>
+                        </li>
+                      </ul>
+                    </div>        
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+      </footer>
+    
+                          <script type="text/javascript" src="/polopoly_fs/3.146.1551460757!/js/bootstrap.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.159.1615315419!/Imager.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.191.1615315451!/jquery.cookie.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.191.1615315451!/users.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.194.1594145527!/persona.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.302.1615315537!/poll.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.259.1551461019!/autosize.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.256.1551461012!/video.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.231.1615315500!/js/tags.carousel.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.231.1615315500!/js/tags.navigation.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.231.1615315500!/js/owl.carousel.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.212.1615315469!/social-auth.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.203.1615315462!/js/fotorama.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.200.1615315459!/namespace.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.200.1615315459!/SearchElement.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.197.1615315455!/personalization.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.163.1615315420!/js/infiniteScroll.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.163.1615315420!/js/funcoes.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.153.1615315412!/plugin.min.js"></script>
+                        <script type="text/javascript">
+persona.settings = {
+
+
+
+
+
+    oncancel: function() {}
+}
+</script>
+                      <script type="text/javascript">
+    function googleSignInCallback(authResult) {
+        if (authResult['status']['signed_in']) {
+            socialauth.login('google', authResult['access_token']);
+        } else {
+            socialauth.logout('google');
+        }
+    }
+
+    socialauth.providers['google'] = {
+        logout: function() {
+            var deferred = $.Deferred();
+            var token = gapi.auth.getToken();
+            if (token) {
+                $.ajax({
+                    type: 'GET',
+                    url: 'https://accounts.google.com/o/oauth2/revoke?token=' + token['access_token'],
+                    async: false,
+                    contentType: "application/json",
+                    dataType: 'jsonp',
+                    success: function(nullResponse) {
+                        deferred.resolve();
+                    },
+                    error: function(e) {
+                        console.log('error revoking ',e);
+                        deferred.reject(e);
+                    }
+                });
+            } else {
+                deferred.resolve();
+            }
+            return deferred.promise();
+        }
+    };
+
+    $('.btn-login-google').click(function () {
+        gapi.auth.signIn();
+    });
+
+    (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/client:platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>                <script type="text/javascript">
+    function FBstatusChangeCallback(response) {
+        // The response object is returned with a status field that lets the
+        // app know the current login status of the person.
+        // Full docs on the response object can be found in the documentation
+        // for FB.getLoginStatus().
+        if (response.status === 'connected') {
+            // Logged into your app and Facebook.
+            socialauth.login('facebook', response['authResponse']['accessToken']);
+
+        } else if (response.status === 'not_authorized') {
+            socialauth.logout('facebook');
+            // The person is logged into Facebook, but not your app.
+        } else {
+            // The person is not logged into Facebook, so we're not sure if
+            // they are logged into this app or not.
+        }
+    }
+    function FBcheckLoginState() {
+        FB.getLoginStatus(function(response) {
+            FBstatusChangeCallback(response);
+        });
+    }
+    socialauth.providers['facebook'] = {
+       logout : function() {
+           var deferred = $.Deferred();
+           FB.logout(deferred.resolve);
+           return deferred.promise();
+       }
+    };
+    $('.btn-login-facebook').click(function () {
+        FB.login(FBstatusChangeCallback, {scope : 'public_profile,email'});    });
+</script>              <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId : '898700906848364',
+      xfbml : true,
+      cookie : true,
+      status : true,
+      version : 'v2.1'
+    });
+
+    $(document).trigger('atexFbInit'); // trigger event
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+          <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+          <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>          <script type="text/javascript">
+(function () {
+$(document).bind('atexFbInit', function() {
+  if (console.log) {
+    console.log('atexFbInit complete; FB Object is Available');
+  }
+
+  });
+} ());
+</script>      <script>
+    //$(function() {
+    //  var navbar = $('.navbar-top');
+    //  var size = $('.navbar').outerHeight(true);
+    //  var placeholder = $('<div class="navbar-placeholder"></div>');
+    //  $(placeholder).height(size);
+    //  $(window).scroll(function() {
+    //    if ($(window).scrollTop() > 0) {
+    //      $(placeholder).height(size);
+    //      $(navbar).before($(placeholder));
+    //      $(navbar).addClass('sticky');
+    //    } else {
+    //      $(navbar).removeClass('sticky');
+    //      $('.navbar-placeholder').remove();
+    //    }
+    //  });
+    //  if ($(window).scrollTop() > 0) {
+    //    $(placeholder).height(size);
+    //    $(navbar).before($(placeholder));
+    //    $(navbar).addClass('sticky');
+    //  }
+    //});
+  </script> 
+  <script>
+            window.imager = new Imager({
+        lazyload:true,
+        availableWidths: function(image) {
+          var params = {
+                                                360 : 'w=360&$w=1071b2b' ,                                    1200 : 'w=1200&$w=9c05b01' ,                                                                720 : 'w=720&$w=3b33d2d' ,                                    2400 : 'w=2400&$w=d2ad2f2'                                       };
+
+          var containerWidth = image.clientWidth;
+          var ratio = Imager.getClosestValue(Imager.getPixelRatio(), [1, 2]);
+          var width = Imager.getClosestValue(containerWidth, [360, 1200]);
+
+          var imageWidth = Math.round(width * ratio);
+          return params[imageWidth];
+        }
+      });
+  </script>
+      <script type='text/javascript'>  (function(){    var logUrl = '/logger/p.gif?d=/2.200/2.221';    var referrer = document.referrer;    if (referrer && referrer.length > 0) {      logUrl += '&referrer=' + referrer;    }    document.write('<img src="' + logUrl + '" />');  })();</script>      <script type="text/javascript" id="r7-footer-portal" src="https://barra.r7.com/footer/footer-portal/footer-portal.js" charset="UTF-8" defer=""></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<!-- TailTarget Tag Manager TT-9964-3/CT-23 -->
+<script>
+    (function(i) {
+    var ts = document.createElement('script');
+    ts.type = 'text/javascript';
+    ts.async = true;
+    ts.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tags.t.tailtarget.com/t3m.js?i=' + i;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ts, s);
+    })('TT-9964-3/CT-23');
+</script>
+<!-- End TailTarget Tag Manager -->
+
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "14194541" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=14194541&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+  </body>
+</html>

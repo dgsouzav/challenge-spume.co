@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>B!t Magazine</title>
+	<atom:link href="https://www.bit.pt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bit.pt</link>
+	<description>Tudo o que importa em TI está aqui</description>
+	<lastBuildDate>Wed, 19 May 2021 07:52:38 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Prosegur procura startups inovadoras</title>
+		<link>https://www.bit.pt/prosegur-procura-startups-inovadoras/</link>
+					<comments>https://www.bit.pt/prosegur-procura-startups-inovadoras/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Wed, 19 May 2021 08:00:15 +0000</pubDate>
+				<category><![CDATA[Inovação]]></category>
+		<category><![CDATA[Desafio]]></category>
+		<category><![CDATA[Prosegur]]></category>
+		<category><![CDATA[Startup]]></category>
+		<guid isPermaLink="false">https://www.bit.pt/?p=90248</guid>
+
+					<description><![CDATA[Esta iniciativa procura startups que tenham um produto ou protótipo funcional, que responda a um dos seis desafios lançados pela equipa de Inovação.]]></description>
+		
+					<wfw:commentRss>https://www.bit.pt/prosegur-procura-startups-inovadoras/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="23948" type="image/jpeg" url="https://www.bit.pt/wp-content/uploads/2013/12/startup1-e1410863251845.jpg" />
+	</item>
+		<item>
+		<title>Visa ajuda as PME a tirar partido do comércio digital</title>
+		<link>https://www.bit.pt/visa-ajuda-as-pme-a-tirar-partido-do-comercio-digital/</link>
+					<comments>https://www.bit.pt/visa-ajuda-as-pme-a-tirar-partido-do-comercio-digital/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 13:49:06 +0000</pubDate>
+				<category><![CDATA[Negócios]]></category>
+		<category><![CDATA[comércio eletrónico]]></category>
+		<category><![CDATA[plataforma]]></category>
+		<category><![CDATA[PME]]></category>
+		<category><![CDATA[Visa]]></category>
+		<guid isPermaLink="false">https://www.bit.pt/?p=90239</guid>
+
+					<description><![CDATA[A plataforma Digitize your Business é uma iniciativa para apoiar as PME em Portugal a ultrapassar os desafios decorrentes da pandemia. ]]></description>
+		
+					<wfw:commentRss>https://www.bit.pt/visa-ajuda-as-pme-a-tirar-partido-do-comercio-digital/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="302069" type="image/png" url="https://www.bit.pt/wp-content/uploads/2013/11/ecommerce-forniture-768x450-e1383833579700.png" />
+	</item>
+		<item>
+		<title>Edigam quer duplicar faturação</title>
+		<link>https://www.bit.pt/edigam-quer-duplicar-faturacao/</link>
+					<comments>https://www.bit.pt/edigam-quer-duplicar-faturacao/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Mon, 17 May 2021 14:07:47 +0000</pubDate>
+				<category><![CDATA[Negócios]]></category>
+		<category><![CDATA[desenvolvimento]]></category>
+		<category><![CDATA[Edigma]]></category>
+		<category><![CDATA[produtos]]></category>
+		<guid isPermaLink="false">https://www.bit.pt/?p=90229</guid>
+
+					<description><![CDATA[A empresa de desenvolvimento tecnológico quer chegar aos 16 milhões de euros e lançar seis novas soluções em três anos.]]></description>
+		
+					<wfw:commentRss>https://www.bit.pt/edigam-quer-duplicar-faturacao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="39852" type="image/jpeg" url="https://www.bit.pt/wp-content/uploads/2015/10/lucro-neg%C3%B3cio.jpg" />
+	</item>
+		<item>
+		<title>BuzzStreets cria sistema de navegação para o Hospital CUF Tejo</title>
+		<link>https://www.bit.pt/buzzstreets-cria-sistema-de-navegacao-para-o-hospital-cuf-tejo/</link>
+					<comments>https://www.bit.pt/buzzstreets-cria-sistema-de-navegacao-para-o-hospital-cuf-tejo/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Fri, 14 May 2021 14:32:34 +0000</pubDate>
+				<category><![CDATA[Mobilidade]]></category>
+		<category><![CDATA[Aplicação]]></category>
+		<category><![CDATA[BuzzStreets]]></category>
+		<category><![CDATA[Cuf Tejo]]></category>
+		<category><![CDATA[Navegação]]></category>
+		<guid isPermaLink="false">https://www.bit.pt/?p=90223</guid>
+
+					<description><![CDATA[A app calcula o melhor trajeto em termos de tempo e distância, minimizando assim o tempo gasto na procura de determinado serviço ou gabinete do médico, entre outras funcionalidades.]]></description>
+		
+					<wfw:commentRss>https://www.bit.pt/buzzstreets-cria-sistema-de-navegacao-para-o-hospital-cuf-tejo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="72825" type="image/jpeg" url="https://www.bit.pt/wp-content/uploads/2021/01/App.jpg" />
+	</item>
+		<item>
+		<title>Claranet lança novos serviços de Cloud Storage</title>
+		<link>https://www.bit.pt/claranet-lanca-novos-servicos-de-cloud-storage/</link>
+					<comments>https://www.bit.pt/claranet-lanca-novos-servicos-de-cloud-storage/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Thu, 13 May 2021 10:09:46 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[claranet]]></category>
+		<category><![CDATA[eco-friendly]]></category>
+		<guid isPermaLink="false">https://www.bit.pt/?p=90213</guid>
+
+					<description><![CDATA[A nova oferta da Claranet Cloud Platform garante 5 vezes mais performance e uma latência 10 vezes inferior, alcançando ainda ganhos de eficiência energética.]]></description>
+		
+					<wfw:commentRss>https://www.bit.pt/claranet-lanca-novos-servicos-de-cloud-storage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="36927" type="image/jpeg" url="https://www.bit.pt/wp-content/uploads/2016/07/cloud-computing-models-684x513.jpg" />
+	</item>
+		<item>
+		<title>Kaspersky olha para novas táticas de ransomware</title>
+		<link>https://www.bit.pt/kaspersky-olha-para-novas-taticas-de-ransomware/</link>
+					<comments>https://www.bit.pt/kaspersky-olha-para-novas-taticas-de-ransomware/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 16:07:42 +0000</pubDate>
+				<category><![CDATA[Segurança]]></category>
+		<category><![CDATA[kaspersky]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.bit.pt/?p=90204</guid>
+
+					<description><![CDATA[Os pesquisadores infiltraram-se em fóruns da darknet e analisaram a atuação de grupos como REvil, Babuk e DarkSide para identificar as suas táticas.]]></description>
+		
+					<wfw:commentRss>https://www.bit.pt/kaspersky-olha-para-novas-taticas-de-ransomware/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="214725" type="image/jpeg" url="https://www.bit.pt/wp-content/uploads/2017/06/ransomware_seguran%C3%A7a.jpg" />
+	</item>
+	</channel>
+</rss>

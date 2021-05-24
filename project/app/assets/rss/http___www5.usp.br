@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tecnologia &#8211; USP &#8211; Universidade de São Paulo</title>
+	<atom:link href="https://www5.usp.br/feed/?cat=996" rel="self" type="application/rss+xml" />
+	<link>https://www5.usp.br</link>
+	<description>Universidade pública, autarquia ligada à Secretaria de Estado de Ensino Superior de São Paulo</description>
+	<lastBuildDate>Fri, 16 Sep 2016 12:09:55 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Jornal da USP substitui aplicativo de notícias</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/jornal-da-usp-substitui-aplicativo-de-noticias/</link>
+		
+		<dc:creator><![CDATA[Redação]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2016 13:34:42 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[USP Online Destaque]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=108944</guid>
+
+					<description><![CDATA[O Jornal da USP acaba de ganhar um aplicativo para celular. Agora, os leitores poderão ler os textos publicados pelo jornal com um simples toque no seu aparelho de telefone celular, no sistema Android e no sistema iOS. A inovação se deve a uma parceria entre a Superintendência de Comunicação Social (SCS) – que publica&#8230;]]></description>
+										<content:encoded><![CDATA[<p>O <strong>Jornal da USP </strong>acaba de ganhar um aplicativo para celular. Agora, os leitores poderão ler os textos publicados pelo jornal com um simples toque no seu aparelho de telefone celular, no sistema Android e no sistema iOS. A inovação se deve a uma parceria entre a Superintendência de Comunicação Social (SCS) – que publica o <strong>Jornal da USP</strong> – e a Superintendência de Tecnologia da Informação (STI), ambas da USP, e dá continuidade às mudanças introduzidas no jornal desde o início do ano, quando a publicação deixou de ser impressa e passou a ser exclusivamente on-line.</p>
+<p>&nbsp;</p>
+<p>O novo aplicativo substitui os antigos Notícias USP e Eventos USP, além de permitir que o usuário escute a Rádio USP São Paulo e Ribeirão Preto. <a href="http://www.app.usp.br/?page_id=78">Clique aqui para mais informações e para fazer o download em seu celular.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Estudo avalia fatores que influenciam a instalação de aplicativos no celular</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/estudo-avalia-fatores-que-influenciam-a-instalacao-de-aplicativos-no-celular/</link>
+		
+		<dc:creator><![CDATA[Valéria Dias]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2016 20:07:31 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Aplicativos]]></category>
+		<category><![CDATA[FEA]]></category>
+		<category><![CDATA[Funcionalidade]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Privacidade]]></category>
+		<category><![CDATA[Reputação]]></category>
+		<category><![CDATA[Smartphones]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=107922</guid>
+
+					<description><![CDATA[Funcionalidades e  reputação das empresas desenvolvedoras da tecnologia são alguns dos critérios que influenciam na hora da permissão de acesso aos dados pessoais para instalação de aplicativos nos celulares.]]></description>
+										<content:encoded><![CDATA[<p>Funcionalidades e  reputação das empresas desenvolvedoras da tecnologia são alguns dos critérios que influenciam na hora da permissão de acesso aos dados pessoais para instalação de aplicativos nos celulares</p>
+<p>Os aplicativos que instalamos em nossos celulares muitas vezes requisitam o acesso a informações pessoais disponíveis nos aparelhos, como localização, chamadas, lista de contato e até o microfone e a câmera. De acordo com um estudo da Faculdade de Economia, Administração e Contabilidade (FEA) da USP, as funcionalidades oferecidas por esses aplicativos (ou seja, o que ele pode fazer) e a boa reputação das empresas desenvolvedoras são alguns dos fatores que influenciam os usuários a aceitarem as permissões de acesso.</p>
+<p>“A opinião positiva de outros usuários, a presença de justificativa de coleta de dados, a transparência da fonte da receita do desenvolvedor, a idade, o sistema operacional também contribuem para a instalação de um aplicativo”, conta a consultora em Tecnologia da Informação, Chen Wen Hsing. Ela é autora da tese de doutorado <em>Coleta de dados pessoais e paradoxo da privacidade: um estudo entre usuários de aplicativos móveis</em> defendida em 4 de abril sob a orientação do professor César Alexandre de Souza.</p>
+<p>A pesquisa foi realizada em três etapas. Na primeira, Chen analisou o conteúdo dos textos, nos comentários e nas notas de cinco aplicativos muito populares na loja virtual Google Play, da plataforma Android (Whatsapp, Instagram, GuiaBolso, MCent e PSafe). Por meio de um site que agrupa informações (consolidação de dados), Chen buscou identificar, nesses comentários, o que diziam os usuários sobre as permissões solicitadas pelos aplicativos.</p>
+<p>Nesta primeira análise, a pesquisadora constatou que a coleta de dados sensíveis, na maioria dos casos, não desestimulou os usuários a fazerem a instalação. Ele conta que no caso do GuiaBolso, o aplicativo pede a senha do internet banking, pois faz uma compilação dos extratos da conta. “Muitos usuários escreveram nos comentários que desistiram de instalar por causa disso, dessa questão da privacidade. Porém, encontrei muitos outros comentários destacando o desempenho e a funcionalidade do aplicativo”, explica.</p>
+<p>Na segunda etapa, a pesquisadora analisou cerca de 160 aplicativos de duas categorias: fotografia e segurança (antivirus, antispam, antifurto, etc). Em cada categoria, ela analisou os 40 mais populares, os 40 menos populares e as diferenças entre os dois grupos. “Os aplicativos mais populares têm mais funcionalidades e pertencem a empresas mais conhecidas. E são as empresas mais conhecidas que solicitam mais permissões. E quanto mais funcionalidades, mais permissões elas solicitam. Há, portanto, uma relação entre essas quatro variáveis: popularidade, boa reputação, funcionalidade e coleta de dados.”</p>
+<p>Na última etapa, Chen aplicou questionários a cerca de 360 estudantes de três universidades (2 públicas e 1 privada) do estado de São Paulo. Foram aplicadas perguntas sobre os hábitos de consumo em relação a quatro aplicativos (Whatsapp, Instagram, Guiabolso e PSafe). Os resultados confirmaram os dados da segunda etapa: os usuários mais frequentes são aqueles que valorizam a funcionalidade e a boa reputação das empresas. Nessa fase da pesquisa, também foram levadas em conta as respostas dos usuários das demais plataformas (Apple e Windows Phone).</p>
+<p>Chen observou, nos entrevistados, duas estratégias de proteção de dados: um grupo faz uso de aplicativos menos invasivos, enquanto o outro reduz o uso. “Esse dado levanta indícios de que talvez exista uma relação com o sistema operacional. Pode ser que alguns usuários não consigam escolher produtos menos invasivos pois o sistema operacional dos smartphones não facilita esta tomada de decisão”, opina.</p>
+<h2>Conselho aos desenvolvedores</h2>
+<p>Para os desenvolvedores de aplicativos, Chen orienta que a coleta de dados por si só não é um fator inibidor, desde que se invista na funcionalidade e na reputação da empresa. Também é interessante observar o nível de coleta de dados dos concorrentes.</p>
+<p>Sobre as recentes disputas envolvendo a Apple e o governo americano e o Facebook (dono do WhatsApp) e o governo brasileiro, Chen destaca que as empresas não querem compartilhar dados dos assinantes com o governo com receio de prejudicar a própria reputação, visto que na política de privacidade dizem que não terão essa atitude. “Isso reforça as conclusões da pesquisa, de que a reputação das empresas é muito importante”, destaca. Ela lembra que os produtos são padronizados para um mundo globalizado e mesmo que a cultura de um país seja mais aberta a coleta de dados, a atitude de uma empresa no Brasil, por exemplo, pode influenciar a reputação dela em outro.</p>
+<p>A pesquisadora alerta que pouco se discute sobre o fato de empresas como o Google e o Facebook terem acesso a tantos dados dos consumidores e poderem monitorar o mundo inteiro o tempo todo. “Há uma concentração de dados em poucas empresas privadas e ninguém questiona isso”, finaliza.</p>
+<p><strong>Mais informações: email <a href="mailto:chenwh@usp.br">chenwh@usp.br</a><br />
+</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Novo laboratório de tecnologia da informação terá foco em celular, internet das coisas e games</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/escola-politecnica-ganha-novo-laboratorio-de-tecnologia/</link>
+		
+		<dc:creator><![CDATA[Redação]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2016 15:49:13 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[USP Online Destaque]]></category>
+		<category><![CDATA[Comunicação móvel]]></category>
+		<category><![CDATA[Escola Politécnica]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Infraestrutura]]></category>
+		<category><![CDATA[Internet das Coisas]]></category>
+		<category><![CDATA[Ocean]]></category>
+		<category><![CDATA[Poli]]></category>
+		<category><![CDATA[Realidade virtual]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=107871</guid>
+
+					<description><![CDATA[<img width="960" height="480" src="https://www5.usp.br/wp-content/uploads/portal20160415_1.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Novo laboratório é voltado para o desenvolvimento de tecnologias nas áreas de comunicação móvel, internet das coisas, realidade virtual e games.]]></description>
+										<content:encoded><![CDATA[<img width="960" height="480" src="https://www5.usp.br/wp-content/uploads/portal20160415_1.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p>Novo laboratório é voltado para o desenvolvimento de tecnologias nas áreas de comunicação móvel, internet das coisas, realidade virtual e games</p>
+<p>A Escola Politécnica (Poli) da USP acaba de ganhar um novo laboratório voltado para o desenvolvimento de tecnologias, principalmente nas áreas de comunicação móvel (celular), internet das coisas (conexão entre os aparelhos usados do dia a dia à rede mundial de computadores), realidade virtual e games. A cerimônia de inauguração aconteceu na manhã desta quinta-feira (14 de abril) na Poli.</p>
+<p>O laboratório é uma parceria com o projeto Ocean Samsung, idealizado pela empresa para oferecer infraestrutura e capacitação tecnológica a diversos públicos: estudantes, desenvolvedores e interessados em geral. A primeira unidade do Ocean foi instalada em 2014, na Universidade do Estado do Amazonas (UEA).</p>
+<p>O espaço será utilizados tanto pela USP quanto pela empresa: haverá atividades dos cursos de graduação e pós-graduação da Poli, e treinamentos gratuitos para o público externo. Esses cursos serão promovidos pela Samsung para incentivar empreendedores e criação de startups (empresas para soluções inovadoras).</p>
+<figure id="attachment_107882" aria-describedby="caption-attachment-107882" style="width: 700px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-107882 size-full" src="https://www6.usp.br/wp-content/uploads/portal20160415_5.jpg" alt="Foto: Joelma Sanmelo / Divulgação UEA" width="700" height="300" data-id="107882" /><figcaption id="caption-attachment-107882" class="wp-caption-text">Foto: Joelma Sanmelo / Divulgação UEA</figcaption></figure>
+<p>O Ocean fica em um prédio do Departamento de Engenharia de Produção da Poli que foi reformado e equipado pela Samsung com móveis, aparelhos de TI, como computadores, smartphones, Smart TV (televisão com acesso à internet), hardwares, sensores etc.</p>
+<p>“A infraestrutura do Ocean irá apoiar as aulas dos cursos de graduação da Poli que precisam de laboratórios e estejam relacionadas a essas tecnologias”, explica Eduardo Zancul, professor da Poli e coordenador do laboratório Ocean.<br />
+Zancul acredita que o acesso a hardwares e o conhecimento da Samsung sobre tecnologias, como a internet das coisas, permitirá a ampliação das pesquisas do Departamento de Engenharia de Produção da Poli. Ele cita como exemplo uma tendência na área industrial de máquinas com sensores comandarem os processos de produção e “conversarem” entre si.<br />
+“Isso é a chamada indústria 4.0 ou quarta revolução industrial. Essa tecnologia é baseada na internet das coisas que será desenvolvida no laboratório e possibilitará avançarmos nossas pesquisas com esse tema”.</p>
+<p>Guilherme Selber, gerente do Ocean São Paulo, também destacou que a tecnologia de internet das coisas será tema de atividades desenvolvidas em conjunto com a USP. “A Samsung tem uma perspectiva de conexão de tudo que ela produz nos próximos anos, ou seja, todos os dispositivos se conectando entre eles e as pessoas, e é um tema muito atual na Poli e em outras unidades da USP. Percebemos uma sinergia muito grande nesse assunto”.</p>
+<p>Entre os equipamentos produzidos pela empresa estão celulares, tablets, wearables (aparelhos de comunicação “vestíveis”), televisores, câmeras fotográficas, computadores, impressoras, suprimentos, refrigeradores, lavadoras, ar-condicionado.</p>
+<h2>Ocean</h2>
+<figure id="attachment_107875" aria-describedby="caption-attachment-107875" style="width: 400px" class="wp-caption alignright"><img loading="lazy" class="size-full wp-image-107875" src="https://www6.usp.br/wp-content/uploads/portal20160415_2.jpg" alt="Foto: Divulgação / Poli" width="400" height="237" data-id="107875" /><figcaption id="caption-attachment-107875" class="wp-caption-text">Foto: Divulgação / Poli</figcaption></figure>
+<p>Selber explica que o conceito do projeto surgiu na Coreia do Sul, país de origem da Samsung, entre 2010 e 2014. Além do país asiático, apenas o Brasil possui unidades do Ocean. “A ideia é ser um polo de atração de parceiros, como estudantes, desenvolvedores, empresas (startups na maioria dos casos) para promoção de tecnologias e ferramentas de desenvolvimento a serem aplicadas em soluções para os nossos equipamentos”.<br />
+O Ocean instalado na Poli possui dois laboratório, cada um deles com capacidade para 40 pessoas, podendo ser integrados para um único ambiente; um miniauditório para 30 pessoas; uma sala para técnicos de Tecnologia da Informação (TI); sala para servidores; e uma área de convivência.</p>
+<p>A empresa não informa os valores gastos com a implantação do projeto por questões de políticas globais, mas a assessoria de imprensa da Samsung informou que o Ocean faz parte da sua política de investimento em Pesquisa e Desenvolvimento (P&amp;D) e possui recursos da Lei da Informática. Uma lei que concede incentivos fiscais para empresas produtoras de alguns hardwares específicos. O incentivo concedido é uma diminuição do Imposto sobre Produtos Industrializados (IPI). Como contrapartida, a empresa deve investir um percentual de seu faturamento decorrente dos produtos incentivados em atividades de P&amp;D.</p>
+<p>A instalação do Ocean na universidade foi realizada por meio do programa “Parceiros da Poli”, um projeto que permite empresas de realizar doações para melhorias da infraestrutura da unidade.</p>
+<figure id="attachment_107881" aria-describedby="caption-attachment-107881" style="width: 700px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-107881 size-full" src="https://www6.usp.br/wp-content/uploads/portal20160415_4.jpg" alt="" width="700" height="339" data-id="107881" /><figcaption id="caption-attachment-107881" class="wp-caption-text">Alunos na unidade do Ocean instalada Universidade do Estado do Amazonas | Foto: Joelma Sanmelo / Divulgação UEA</figcaption></figure>
+<p>&nbsp;</p>
+<h2>Cursos gratuitos</h2>
+<p>Além das atividades de graduação e pós-graduação da USP, o espaço dos laboratórios também poderá ser utilizado pela população por meio de cursos oferecidos gratuitamente pela Samsung.<br />
+Segundo Selber, são basicamente dois programas. Os de curta duração — de 3 a 4 horas — com aulas teóricas, de laboratório e mentorias dadas por técnicos da empresa. Esses cursos abrangem temas desde desenvolvimento de aplicativos a modelos de negócios para a criação de startups. “Esses cursos serão divulgados no site e no aplicativo do Ocean Samsug, as pessoas fazem a inscrição e participam gratuitamente, além de receber certificado”.</p>
+<p>Já o programa de longa duração – de 5 a 6 meses – requer processo seletivo e é destinado a grupos ou startups que possuem ideias interessantes e estão começando a empreender. São selecionados 8 a 10 equipes, compostas por no máximo seis pessoas, a ideia é que o curso seja uma pré-aceleração.</p>
+<p>“Damos os primeiros passos para a criação de uma startup, explicamos o que é uma ideia e se ela é boa ou não, modelo de negócio, plano de monetização, público, mercado, concorrentes etc. E como somos empresa de tecnologia, ensinamos como desenvolver aplicativo e os grupos saem desse processo com um protótipo funcional”, avisa Selber.</p>
+<p><em>Hérika Dias / Agência USP de Notícias</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cooperação entre Agência USP de Inovação e Sebrae gera projetos empreendedores</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/cooperacao-entre-agencia-usp-de-inovacao-e-sebrae-gera-projetos-empreendedores/</link>
+		
+		<dc:creator><![CDATA[Redação]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2016 20:23:36 +0000</pubDate>
+				<category><![CDATA[Institucional]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Agência USP de Inovação]]></category>
+		<category><![CDATA[Empreendedorismo]]></category>
+		<category><![CDATA[SEBRAE]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=107840</guid>
+
+					<description><![CDATA[O objetivo da parceria é fomentar iniciativas de empreendedorismo dentro da Universidade.]]></description>
+										<content:encoded><![CDATA[<p>Objetivo da parceria é fomentar iniciativas de empreendedorismo dentro da Universidade</p>
+<p>No final de 2015, a Agência USP de Inovação, o Núcleo de Inovação Tecnológica da USP, e a Escola de Negócios Alencar Burti Sebrae-SP firmaram um acordo de cooperação com o objetivo de fomentar iniciativas de empreendedorismo dentro da Universidade. Através da parceria, metodologias e eventos desenvolvidos pela Escola de Negócios e pelo Sebrae serão adaptados ao ambiente da USP, complementando as ações já existentes no ecossistema de empreendedorismo local.</p>
+<p>Na primeira atividade da parceria, a equipe de empreendedorismo da Agência USP de Inovação acompanhou durante um mês uma turma do programa de <em>speed mentoring</em> da Escola de Negócios, programa de sensibilização às competências empreendedoras e às ferramentas de auxílio ao desenvolvimento e validação de projeto. A turma foi composta por empreendedores da 1ª edição do Pitch GOV SP, programa para atração de empresas nascentes com soluções para a administração pública, idealizado pelo Governo do Estado de São Paulo.</p>
+<p>As ações resultantes da parceria entre o Sebrae e a Agência USP de Inovação já estão em andamento em projetos e programas como o PIXEL, que iniciou as atividades em março deste ano. O programa PIXEL trabalha com o estágio de pré-incubação e contempla, em sua primeira turma, sete propostas em áreas como educação, saúde e economia criativa. O programa é acompanhado por facilitadores do Sebrae e da USP, que até dia 15 de maio, quando encerra-se a primeira etapa do programa, ministrarão oficinas que compõem a metodologia de <em>speed mentoring,</em> desenvolvendo o olhar empreendedor.</p>
+<p>Outro resultado foi o evento “Empreendedorismo como opção de carreira”, que aconteceu no final de março e mobilizou a Agência USP de Inovação e a Escola de Negócios Alencar Burti Sebrae-SP e o Núcleo USP Júnior. A ação aconteceu no auditório do Instituto de Física (IF) da USP e buscou despertar nos alunos, especialmente os de graduação, as possibilidades trazidas pelo empreendedorismo. O evento contou com a presença dos professores Vanderlei Bagnato e Luciane Ortega, coordenadores da Agência USP de Inovação, representantes das Empresas Juniores da USP e Antônio Vieira, ex-junior e sócio fundador da Umanni, empresa focada em Human Capital Management – HCM.</p>
+<p>A Agência também participou, em fevereiro, da Feira do Empreendedor Sebrae, que recebeu mais de 130 mil pessoas na edição de 2016. No stand da Escola de Negócios Alencar Burti, palestras e conversas mostraram a relação entre empreendedorismo e o contexto universitário. A Agência USP de Inovação apresentou ações da Agência, assim como o panorama do empreendedorismo na Universidade. O stand contou ainda com a presença de três empresas de base tecnológica da USP: Agra, Bright Photomedicine e Pluricell Biotech.</p>
+<p><em>Com informações da Agência USP de Inovação</em></p>
+<p><strong>Mais informações: (11) 3091-4495, site <a href="http://www.inovacao.usp.br">www.inovacao.usp.br</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parque terá laboratório de compatibilidade eletromagnética</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/parque-tera-laboratorio-de-compatibilidade-eletromagnetica/</link>
+		
+		<dc:creator><![CDATA[Agência USP de Notícias]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2016 18:07:02 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Flipase]]></category>
+		<category><![CDATA[Laboratório de Compatibilidade Eletromagnética]]></category>
+		<category><![CDATA[Parque Tecnológico]]></category>
+		<category><![CDATA[Parque Tecnológico de Ribeirão Preto]]></category>
+		<category><![CDATA[Supera Centro de Tecnologia]]></category>
+		<category><![CDATA[USP Ribeirão Preto]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=107824</guid>
+
+					<description><![CDATA[Laboratório instalado no Parque Tecnológico Supera,em Ribeirão Preto, beneficiará setor de eletroeletrônicos]]></description>
+										<content:encoded><![CDATA[<p>Laboratório instalado no Parque Tecnológico Supera,em Ribeirão Preto, beneficiará setor de eletroeletrônicos</p>
+<p>Ribeirão Preto ganha, no dia 14 de abril, um Laboratório de Compatibilidade Eletromagnética, fruto de um convênio entre a Fipase (Fundação Instituto Polo Avançado da Saúde) e a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação do Estado de São Paulo. A inauguração será realizada durante o evento de comemoração dos dois anos do Supera Parque de Inovação e Tecnologia, com a presença da prefeita Darcy Vera e do secretário estadual de Desenvolvimento, Marcio França. O Supera Parque de Inovação e Tecnologia de Ribeirão Preto é resultado de uma parceria entre a Fipase, a USP, Prefeitura Municipal de Ribeirão Preto e Secretaria de Desenvolvimento do Estado de São Paulo.</p>
+<p>O novo laboratório, localizado no Parque Tecnológico, recebeu investimentos de R$ 1,6 milhão da Secretaria de Desenvolvimento Econômico — a partir de recursos do BID — Banco Interamericano de Desenvolvimento. O investimento faz parte do plano de melhoria da competitividade de Arranjos Produtivos Locais (APLs) paulistas. A contrapartida da Fipase (Fundação Instituto Polo Avançado da Saúde), gestora do Parque, foi de aproximadamente 15% desse valor.</p>
+<p>O laboratório montado pelo Supera permitirá a realização de ensaios de compatibilidade eletromagnética conduzida, de acordo com as principais normas nacionais e internacionais. “As empresas da região se beneficiarão por ter um laboratório de alta tecnologia de fácil acesso, diminuindo custos de certificação e inovação. Além disso, o laboratório reúne técnicos com conhecimentos altamente especializados em áreas críticas para o desenvolvimento de novos produtos”, enfatiza Erico Moreli, coordenador do Supera Centro de Tecnologia.</p>
+<p>O coordenador ressalta que a entrada em operação do laboratório deve movimentar a economia local. “O desenvolvimento de novos produtos implica em aumento de produção, aumento de exportações, aumento de empregos e consequente aumento de competitividade das empresas”, diz.</p>
+<h2>Diminuição nos prazos</h2>
+<p>Hoje, para que os testes sejam realizados nos equipamentos eletroeletrônicos, empresários da região precisam ir a São Paulo ou Campinas para ter acesso a um laboratório de compatibilidade eletromagnética onde, geralmente, encontram filas. Com o laboratório montado no Supera Parque, as empresas terão grande redução de custos de logística, facilidade de acesso a conhecimentos técnicos especializados e diminuição nos prazos de ensaios.</p>
+<p>O laboratório de compatibilidade eletromagnética do Supera Parque poderá ser utilizado por empresas nacionais e internacionais que precisem certificar seus produtos. “Qualquer equipamento que opere com energia precisa certificar em compatibilidade eletromagnética: equipamentos médicos, hospitalares e odontológicos, eletrodomésticos, telecomunicações, tecnologia da informação e comunicação, veículos e demais setores industriais da área de eletroeletrônica”, explica Moreli.</p>
+<p>Em Ribeirão Preto serão realizados mais de 10 ensaios de compatibilidade eletromagnética conduzida, como, por exemplo, a IEC 60601-1-2 Medical electrical equipment e a IEC 61000-3-2, “Electromagnetic compatibility (EMC)”. A lista completa de ensaios e a programação do 2º aniversário do Supera Parque de Inovação e Tecnologia estão disponíveis no site.</p>
+<p>Instalado no Campus da USP, em Ribeirão Preto, o Parque abriga a Supera Incubadora de Empresas, o Supera Centro de Tecnologia, a associação do Arranjo Produtivo Local (APL) da Saúde, o Polo Industrial de Software (PISO), além do Supera Centro de Negócios. Ao todo, são 51 empresas instaladas no Parque, sendo: 40 delas na Supera Incubadora de Empresas de Base Tecnológica; dez empreendimentos no Centro de Negócios e dois no SEVNA Seed (uma das empresas da aceleradora também integra a Incubadora de Empresas).</p>
+<p>A Fipase é a gestora da marca Supera que dá nome à Incubadora de Empresas, ao Centro de Tecnologia e ao Parque Tecnológico de Ribeirão Preto. É por meio da Fundação que o Supera Parque de Inovação e Tecnologia e a Supera Incubadora de Empresas de Base Tecnológica promovem ações de incentivo ao empreendedorismo e à inovação em Ribeirão Preto e região.</p>
+<p><em>Da Agência USP de Notícias / Com informações da Medialink Comunicação</em></p>
+<p style="text-align: left;"><strong>Mais Informações: site <a href="http://superaparque.com.br/" target="_blank">http://superaparque.com.br/</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Supera Parque inaugura laboratório de compatibilidade eletromagnética</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/supera-parque-inaugura-laboratorio-de-compatibilidade-eletromagnetica/</link>
+		
+		<dc:creator><![CDATA[Redação]]></dc:creator>
+		<pubDate>Fri, 08 Apr 2016 21:02:27 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Eletromagnética]]></category>
+		<category><![CDATA[FIPASE]]></category>
+		<category><![CDATA[Laboratório]]></category>
+		<category><![CDATA[Ribeirão Preto]]></category>
+		<category><![CDATA[Supera Parque]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=107479</guid>
+
+					<description><![CDATA[Primeiro da região, laboratório deve beneficiar indústria de eletroeletrônicos, diminuindo custos logísticos e tempo de espera para certificações. Inauguração acontece dia 14 de abril]]></description>
+										<content:encoded><![CDATA[<p>Primeiro da região, laboratório deve beneficiar indústria de eletroeletrônicos, diminuindo custos logísticos e tempo de espera para certificações. Inauguração acontece dia 14 de abril</p>
+<p>Ribeirão Preto ganha, no dia 14 de abril, um Laboratório de Compatibilidade Eletromagnética, fruto de um convênio entre a Fipase (Fundação Instituto Polo Avançado da Saúde) e a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação do Estado de São Paulo. A inauguração será realizada durante o evento de comemoração dos dois anos do Supera Parque de Inovação e Tecnologia, com a presença da prefeita Darcy Vera e do secretário estadual de Desenvolvimento, Marcio França.</p>
+<p>O novo laboratório, localizado no Parque Tecnológico, recebeu investimentos de R$ 1,6 milhão da Secretaria de Desenvolvimento Econômico &#8211; a partir de recursos do BID &#8211; Banco Interamericano de Desenvolvimento. O investimento faz parte do plano de melhoria da competitividade de Arranjos Produtivos Locais (APLs) paulistas. A contrapartida da Fipase (Fundação Instituto Polo Avançado da Saúde), gestora do Parque, foi de aproximadamente 15% desse valor.</p>
+<p>O laboratório montado pelo Supera permitirá a realização de ensaios de compatibilidade eletromagnética conduzida, de acordo com as principais normas nacionais e internacionais. “As empresas da região se beneficiarão por ter um laboratório de alta tecnologia de fácil acesso, diminuindo custos de certificação e inovação. Além disso, o laboratório reúne técnicos com conhecimentos altamente especializados em áreas críticas para o desenvolvimento de novos produtos”, enfatiza Erico Moreli, coordenador do Supera Centro de Tecnologia.</p>
+<p>O coordenador ressalta que a entrada em operação do laboratório deve movimentar a economia local. “O desenvolvimento de novos produtos implica em aumento de produção, aumento de exportações, aumento de empregos e consequente aumento de competitividade das empresas”, diz.</p>
+<p>Hoje, para que os testes sejam realizados nos equipamentos eletroeletrônicos, empresários da região precisam ir a São Paulo ou Campinas para ter acesso a um laboratório de compatibilidade eletromagnética onde, geralmente, encontram filas. Com o laboratório montado no Supera Parque, as empresas terão grande redução de custos de logística, facilidade de acesso a conhecimentos técnicos especializados e diminuição nos prazos de ensaios.</p>
+<h2>Normas</h2>
+<p>O laboratório de compatibilidade eletromagnética do Supera Parque poderá ser utilizado por empresas nacionais e internacionais que precisem certificar seus produtos. “Qualquer equipamento que opere com energia precisa certificar em compatibilidade eletromagnética: equipamentos médicos, hospitalares e odontológicos, eletrodomésticos, telecomunicações, tecnologia da informação e comunicação, veículos e demais setores industriais da área de eletroeletrônica”, explica Moreli.</p>
+<p>Em Ribeirão Preto serão realizados mais de 10 ensaios de compatibilidade eletromagnética conduzida, como, por exemplo, a IEC 60601-1-2 Medical electrical equipment e a IEC 61000-3-2, “Electromagnetic compatibility (EMC)”. A lista completa de ensaios e a programação do 2º aniversário do Supera Parque de Inovação e Tecnologia estão disponíveis <a href="http://superaparque.com.br/">no site</a>.</p>
+<h2></h2>
+<h2>Supera Parque</h2>
+<p>O Supera Parque de Inovação e Tecnologia de Ribeirão Preto é resultado de uma parceria entre a Fipase, a USP, Prefeitura Municipal de Ribeirão Preto e Secretaria de Desenvolvimento do Estado de São Paulo. Instalado no Campus da USP local, o Parque abriga a Supera Incubadora de Empresas, o Supera Centro de Tecnologia, a associação do Arranjo Produtivo Local (APL) da Saúde, o Polo Industrial de Software (PISO), além do Supera Centro de Negócios. Ao todo, são 51 empresas instaladas no Parque, sendo: 40 delas na Supera Incubadora de Empresas de Base Tecnológica; 10 empreendimentos no Centro de Negócios e 2 no SEVNA Seed (uma das empresas da aceleradora também integra a Incubadora de Empresas).</p>
+<p>A Fipase é a gestora da marca Supera que dá nome à Incubadora de Empresas, ao Centro de Tecnologia e ao Parque Tecnológico de Ribeirão Preto. É por meio da Fundação que o Supera Parque de Inovação e Tecnologia e a Supera Incubadora de Empresas de Base Tecnológica promovem ações de incentivo ao empreendedorismo e à inovação em Ribeirão Preto e região.</p>
+<p><em>Com informações da Medialink Comunicação </em></p>
+<p><strong>Mais Informações: site <a href="http://superaparque.com.br/">http://superaparque.com.br/</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pesquisa na área de estatística cria plataforma para aplicação e correção de provas</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/pesquisa-na-area-de-estatistica-cria-plataforma-para-aplicacao-e-correcao-de-provas/</link>
+		
+		<dc:creator><![CDATA[Redação]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 21:12:13 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[CeMEAI]]></category>
+		<category><![CDATA[Estatística]]></category>
+		<category><![CDATA[Informação]]></category>
+		<category><![CDATA[Interatividade]]></category>
+		<category><![CDATA[Mariana Curi]]></category>
+		<category><![CDATA[Provas]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Teste]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=107419</guid>
+
+					<description><![CDATA[Sistema monta as provas, seleciona questões e as corrige automaticamente, além de incorporar módulos estatísticos e matemáticos que permitem que as avaliações sejam adaptativas]]></description>
+										<content:encoded><![CDATA[<p>Sistema monta as provas, seleciona questões e as corrige automaticamente, além de incorporar módulos estatísticos e matemáticos que permitem que as avaliações sejam adaptativas</p>
+<p>A tecnologia permite que o acesso à informação e interatividade sejam cada vez mais presentes nas salas de aula, auxiliando no processo de aprendizagem. No entanto, ainda não foi capaz de eliminar, de uma vez, as avaliações em papel, demandando tempo dos docentes na aplicação dos testes e na correção.</p>
+<p>Agora, um trabalho que tem coordenação da pesquisadora da área de Estatística, Mariana Curi, integrante do Centro de Ciências Matemáticas Aplicadas à Indústria (CeMEAI), promete mudar essa realidade com inovação.</p>
+<p>Inicialmente chamado Plataforma de Avaliação Informatizada (PAI), o sistema é diferenciado porque não apenas monta as provas, seleciona questões e as corrige automaticamente, mas incorpora módulos estatísticos e matemáticos que permitem que as avaliações sejam adaptativas. “Conforme as respostas dadas pelo aluno, é possível escolher uma próxima questão no banco de dados mais adequada ao nível de dificuldade ou acerto dele, individualizando e aprimorando assim o conteúdo e dificultando &#8220;cola&#8221;”, explica Mariana que já utiliza a ferramenta em suas avaliações.</p>
+<p>Agora, o projeto da pesquisadora ganha reforço junto do também pesquisador do CeMEAI, Seiji Isotani, da área de computação que irá desenvolver um software contando também com o envolvimento de um grupo de alunos de doutorado.</p>
+<p>“O sistema já existente será aprimorado com a participação do grupo de Computação, possibilitando seu uso por outros docentes e também para avaliações de qualquer conteúdo, tais pesquisa de opinião ou marketing, não necessariamente provas ligadas à área educacional”, comentou. Assista a seguir vídeo sobre a iniciativa:</p>
+<p><iframe width="1140" height="641" src="https://www.youtube.com/embed/ZBnkKGFZcLM?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<h2>Sobre o CeMEAI</h2>
+<p>O Centro de Ciências Matemáticas Aplicadas à Indústria (CeMEAI), com sede no Instituto de Ciências Matemáticas e de Computação (ICMC) da USP, em São Carlos, é um dos Centros de Pesquisa, Inovação e Difusão (CEPIDs) financiados pela FAPESP.</p>
+<p>O CeMEAI é estruturado para promover o uso de ciências matemáticas como um recurso industrial em quatro áreas básicas: Otimização Aplicada e Pesquisa Operacional, Mecânica de Fluidos Computacional, Modelagem de Risco, Inteligência Computacional e Engenharia de Software.</p>
+<p><strong>Mais informações: email <a href="mailto:contatocemeai@icmc.usp.br">contatocemeai@icmc.usp.br</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Veículo será usado em estudos sobre automóvel híbrido</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/veiculo-sera-usado-em-estudos-sobre-automovel-hibrido/</link>
+		
+		<dc:creator><![CDATA[Agência USP de Notícias]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2016 15:58:36 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Motor a combustão]]></category>
+		<category><![CDATA[Motor Elétrico]]></category>
+		<category><![CDATA[Poli]]></category>
+		<category><![CDATA[Secretaria de Desenvolvimento Econômico Ciência Tecnologia e Inovação do Estado de São Paulo]]></category>
+		<category><![CDATA[Veículo híbrido]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=106974</guid>
+
+					<description><![CDATA[Automóvel servirá como plataforma para estudos sobre tecnologia dos híbridos, adaptada à realidade brasileira. ]]></description>
+										<content:encoded><![CDATA[<p>A Escola Politécnica (Poli) da USP recebeu no último dia 22 de março um veículo híbrido Prius, da Toyota, que será utilizado para atividades de ensino e pesquisa sobre essa tecnologia. O automóvel, equipado com um motor a combustão e outro elétrico, foi entregue para a instituição em uma cerimônia realizada na sede da Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação do Estado de São Paulo (SDECTI), no Jaguaré, em São Paulo.</p>
+<p>O Prius será utilizado pelo Grupo de Eletrônica Automotiva da Poli, formado por professores dos Departamentos de Engenharia de Sistemas Eletrônicos (PSI) e de Engenharia de Energia e Automação (PEA), além de alunos de graduação, mestrado e doutorado. O Grupo planeja, na pesquisa que envolve o Prius, dominar o gerenciamento da propulsão de veículos híbridos e contribuir com novas técnicas de controle.</p>
+<p>Segundo o professor do PEA, Eduardo Pellini, a Poli vai contribuir no avanço do conhecimento científico e tecnológico sobre o uso da tecnologia dos híbridos aplicado à realidade brasileira. “O Brasil tem peculiaridades, como a presença do etanol e dos motores flex e a matriz energética baseada na geração hidrelétrica. Vamos desenvolver pesquisas no sentido de apoiar a Toyota oferecendo conhecimento para sobre a adaptação da tecnologia ao cenário nacional”, explica.</p>
+<p>Pellini já orienta dois alunos de doutorados que irão utilizar o Prius cedido em comodato pela Toyota para avançar em suas pesquisas. Um dos trabalhos trata das baterias usadas em motores híbridos, avaliando inclusive todo o ciclo de vida do produto. O outro projeto de doutorado se concentra no gerenciamento energético nos veículos.</p>
+<h3><strong>Formação de recursos humanos</strong></h3>
+<p>De acordo com o professor do PSI, Armando Antônio Maria Laganá, integrante do Grupo de Eletrônica Automotiva, a Poli planeja criar uma nova disciplina para o mestrado do Programa de Engenharia Elétrica da instituição, utilizando o Prius. “Nosso principal objetivo, com as pesquisas e cursos, é contribuir para o processo de formação de recursos humanos na área eletrônica automotiva para que a engenharia brasileira possa aumentar sua participação nos projetos globais”, finaliza.</p>
+<p>O motor elétrico do Prius funciona como um gerador e não é carregado na tomada por eletricidade convencional, como muitas pessoas imaginam. Ele capta a energia cinética produzida pela frenagem e a transforma em energia elétrica, que é armazenada na bateria do motor elétrico. Em um veículo comum, essa energia é dispensada em forma de calor.</p>
+<p>Quando o Prius se movimenta a uma velocidade de até 50 quilômetros por hora (km/h) e as baterias estão carregadas, o motor a combustão permanece desativado e não há consumo de combustível. Conforme a velocidade do carro aumenta ou exige maior força, como em uma subida, por exemplo, o motor a combustão é acionado e o sistema inteligente controla o uso dos dois motores simultaneamente, gerando potência combinada de até 138 cv.</p>
+<p>Na cerimônia, as autoridades participantes destacaram a importância da colaboração. O diretor da Poli, professor José Roberto Castilho Piqueira, disse que a Escola tem contribuído, ao longo de sua existência, com a promoção do desenvolvimento científico, tecnológico e social do País, e a parceria com uma empresa como a Toyota atende a essa agenda. “Hoje, uma das grandes questões é a sustentabilidade. É fundamental o avanço do conhecimento na busca de produtos e soluções que envolvam as demandas da sociedade”, ressaltou.</p>
+<p>Para o reitor da USP, professor Marco Antonio Zago, a parceria com a montadora japonesa é um exemplo de ação que se torna mais importante a cada dia na universidade: a ampliação da colaboração e da transferência de tecnologia e conhecimento da universidade para a sociedade e também a inserção do conhecimento existente no mercado entre pesquisadores e alunos da instituição. “Continuamos abertos a esse tipo de cooperação com outras empresas e esperamos que a própria Toyota amplie essa colaboração com a universidade”, disse.</p>
+<p>Já o vice-governador e secretário Desenvolvimento Econômico, Ciência, Tecnologia e Inovação paulista, Márcio França, destacou o potencial dos híbridos no mercado brasileiro. “A tecnologia híbrida virá com muita força no País e a empresa saiu na frente ao oferecer o veículo aos alunos da USP. Quando vemos as características positivas desse carro, como baixo consumo, a gente percebe que existe um grande campo para ser desenvolvido”, declarou.</p>
+<p>O gerente geral de Relações Governamentais da Toyota do Brasil, Roberto Braun, lembrou que contribuir para a mobilidade sustentável é uma das missões da empresa. “Ao fechar essa parceria com a Poli, proporcionando a possibilidade de novos estudos e pesquisas sobre tecnologia híbrida, a Toyota do Brasil dá um importante passo nessa direção, colaborando com a formação dos profissionais do futuro”, afirma.</p>
+<p><em>Da Assessoria de Imprensa da Poli</em></p>
+<p><strong>Mais informações: (11) 5549-1863 / 5081-5237, email <a href="mailto:rika@academica.jor.br" target="_blank">rika@academica.jor.br</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Protetor facial auxilia na reabilitação de atletas</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/protetor-facial-auxilia-na-reabilitacao-de-atletas/</link>
+		
+		<dc:creator><![CDATA[Agência USP de Notícias]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2016 17:06:11 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Acetato de vinila]]></category>
+		<category><![CDATA[Agência USP de Inovação]]></category>
+		<category><![CDATA[Copa Libertadores da América]]></category>
+		<category><![CDATA[Copolímero de etileno]]></category>
+		<category><![CDATA[FO]]></category>
+		<category><![CDATA[Protetor Individualizado para Fraturas Faciais]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=106938</guid>
+
+					<description><![CDATA[<img width="960" height="480" src="https://www5.usp.br/wp-content/uploads/portal20160329_1.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Protetor resguarda rosto de atleta que se recupera de fraturas e alivia impacto de modo mais eficaz.]]></description>
+										<content:encoded><![CDATA[<img width="960" height="480" src="https://www5.usp.br/wp-content/uploads/portal20160329_1.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p>Dispositivo resguarda rosto de quem que se recupera de fraturas e alivia impacto de modo mais eficaz</p>
+<p>O ano era 2006 e o São Paulo avançava bem nos campeonatos que participava. Mantendo o bom desempenho do ano anterior, tinha Dispositivo resguarda rosto de quem que se recupera de fraturas e alivia impacto de modo mais eficazchances de chegar à final da Copa Libertadores da América. “Em time que está ganhando não se mexe”. Mas o time precisou ser mexido. Em uma partida, uma peça chave da equipe, o uruguaio Diego Lugano, foi atingido por uma cotovelada no rosto. Uma fratura no nariz colocaria o atleta fora dos próximos jogos.</p>
+<p>O atleta ficou afastado por algumas semanas, mas voltou a tempo de participar dos últimos e decisivos jogos dos campeonatos. A razão para o rápido retorno foi a possibilidade de voltar aos campos usando o Protetor Individualizado para Fraturas Faciais, desenvolvido na Faculdade de Odontologia (FO) da USP e patenteado pela Agência USP de Inovação.</p>
+<p>O equipamento é produzido de maneira personalizada para cada paciente após a liberação médica, mas quando o paciente ainda se recupera da fratura. Depois de Lugano, muitos outros atletas tiveram o auxílio do protetor desenvolvido na Universidade para retornar mais rapidamente ao esporte. Os professores Reinaldo Brito e Dias e Neide Pena Coto explicam que o protetor é capaz de absorver e dissipar energia de deformação proveniente de impactos na região, o que diminui as chances de um novo impacto causar fraturas ou complicações nas áreas sensibilizadas.</p>
+<h3><strong>Proteção</strong></h3>
+<figure id="attachment_106948" aria-describedby="caption-attachment-106948" style="width: 400px" class="wp-caption alignleft"><img loading="lazy" class="size-full wp-image-106948" src="https://www6.usp.br/wp-content/uploads/portal20160329_2.jpg" alt="Foto: Divulgação / Agência USP de Inovação" width="400" height="281" data-id="106948" /><figcaption id="caption-attachment-106948" class="wp-caption-text">Foto: Divulgação / Agência USP de Inovação</figcaption></figure>
+<p>O protetor é feito do material EVA (copolímero de etileno e acetato de vinila), e protetores similares,produzidos na Europa, são feitos de fibra de carbono, que, segundo os professores, absorve menos a energia e, portanto, não alivia o impacto de maneira tão eficiente quanto o desenvolvido na Faculdade de Odontologia. Neide Pena Coto comenta as vantagens protetor de EVA: “quando é impactado, ele transmite a energia para as extremidades, e nessa transmissão o material vem absorvendo energia”.</p>
+<p>O professor Reinaldo Dias complementa dizendo que, diferente do europeu, o protetor desenvolvido na FO é formado por duas camadas, uma mais rígida e outra que ele chama de “soft”, que torna o uso mais confortável. O protetor fica apoiado em ossos mais resistentes, como o osso frontal e os ossos mais fortes do terço médio da face, deixando protegidos de impactos os ossos mais frágeis.</p>
+<p>Ele é produzido de maneira personalizada para cada paciente, que recebe acompanhamento dos pesquisadores e dá o feedback do desempenho do equipamento durante o uso. Além do caso de Lugano no futebol, tais fraturas também são comuns em esportes como o beisebol, handebol e hóquei.</p>
+<p>Reinaldo Dias finaliza explicando a importância da pesquisa para a ciência: “se nós podemos deixar um know-how da universidade, um know-how brasileiro para que a gente possa trabalhar algo que a gente idealizou, acho que esta é a satisfação do professor”.</p>
+<p><em>Com informações da Agência USP de Inovação</em></p>
+<p><strong>Mais informações: (11) 3091-4165</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Escola Politécnica recebe doação de veículo híbrido</title>
+		<link>https://www5.usp.br/noticias/tecnologia-2/escola-politecnica-recebe-doacao-de-veiculo-hibrido/</link>
+		
+		<dc:creator><![CDATA[Redação]]></dc:creator>
+		<pubDate>Wed, 23 Mar 2016 16:26:46 +0000</pubDate>
+				<category><![CDATA[Pesquisa]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Engenharia de Energia e Automação]]></category>
+		<category><![CDATA[Engenharia de Sistemas Eletrônicos]]></category>
+		<category><![CDATA[Escola Politécnica]]></category>
+		<category><![CDATA[Grupo de Eletrônica Automotiva]]></category>
+		<category><![CDATA[Poli]]></category>
+		<category><![CDATA[Prius]]></category>
+		<category><![CDATA[Toyota]]></category>
+		<category><![CDATA[Veículo híbrido]]></category>
+		<guid isPermaLink="false">http://www6.usp.br/?p=106780</guid>
+
+					<description><![CDATA[A Toyota do Brasil concederá uma unidade do Prius, veículo híbrido mais vendido do mundo, para a Escola Politécnica (Poli) da USP.]]></description>
+										<content:encoded><![CDATA[<p>A Toyota do Brasil concederá uma unidade do Prius, veículo híbrido mais vendido do mundo, para a Escola Politécnica (Poli) da USP. A parceria incentiva o ensino e pesquisa para a formação de novos profissionais a respeito de tecnologias desenvolvidas para veículos híbridos. A cerimônia de entrega do Prius aconteceu no dia 22 de março, em São Paulo.</p>
+<p>O Prius será utilizado pelo Grupo de Eletrônica Automotiva da Poli, formado por professores de Engenharia de Sistemas Eletrônicos e de Engenharia de Energia e Automação, além de alunos de graduação, mestrado e doutorado. O objetivo da pesquisa é dominar o gerenciamento da propulsão de carros híbridos e contribuir com novas técnicas de controle.</p>
+<p>De acordo com o professor Armando Antônio Maria Laganá, integrante do Grupo de Eletrônica Automotiva da Poli, a USP planeja criar uma nova disciplina para o Mestrado do Programa de Engenharia Elétrica da instituição, utilizando o híbrido Prius cedido pela Toyota para a prática dos alunos. “Nosso principal objetivo é contribuir para o processo de formação de recursos humanos na área eletrônica automotiva para que a engenharia brasileira possa aumentar sua participação nos projetos globais”, afirma.</p>
+<p><em>Com informações da Assessoria de Comunicação da Toyota</em></p>
+<p><strong>Mais informações: site <a href="http://www.toyotaimprensa.com.br/" target="_blank">http://www.toyotaimprensa.com.br</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

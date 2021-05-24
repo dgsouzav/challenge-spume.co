@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+    node:
+        container_name: 'nodejs'
+        image: 'rafsb/nodejs'
+        volumes:
+            - 'node_home:/root'
+            - '../project:/root/proj'
+            - './entrypoint:/entrypoint'
+        ports:
+            - '3000:3000'
+        command:
+            - './entrypoint'
+        stdin_open: true # -i
+        tty: true        # -t
+
+#    Mariadb:
+#        container_name: 'mariadb'
+#        image: rafsb/mariadb
+#        environment:
+#            MYSQL_ROOT_PASSWORD: root
+#        volumes:
+#            - 'db:/var/lib/mysql'
+#        ports:
+#            - '3306:3306'
+
+volumes:
+    node_home:
+#    db:

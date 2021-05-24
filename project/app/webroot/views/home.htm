@@ -1,0 +1,60 @@
+<template>
+    <!-- HOME WRAPPER-->
+    <div id="home" class="-wrapper -no-scrolls">
+        <!-- HEADER -->
+        <header class='-row -content-left' style='padding:1em;background:@FOREGROUND;'>Spume::Challenge</header>
+        <!-- MENU -->
+        <nav class="-row -flex --menu">
+            <ul>
+                <li onclick="window.app.retrieve_data('all')">Todos os posts</li>
+                <li onclick="window.app.retrieve_data('last_10_days')">Dos últimos 10 dias</li>
+                <li onclick="window.app.retrieve_data('only_techs')">Somente de tecnologia<img src="img/bonus.png"/></li>
+            </ul>
+        </nav>
+        <section class='-wrapper -scrolls -flex' style="height:calc(100% - 14em)">
+            <!-- PADDING LEFT -->
+            <div class="-col-1 -bar --padd"></div>
+            
+            <!-- CONTENT-->
+            <div class="-col-10 --content -content-center -flex">
+                <div class="-left -col-2"></div>
+                <div class="-left -col-2"></div>
+                <div class="-left -col-2"></div>
+                <div class="-left -col-2"></div>
+                <div class="-left -col-2"></div>
+            </div>
+
+            <!-- PADDING RIGHT -->
+            <div class="-col-1 -bar --padd"></div>
+        </section>
+    </div>
+    <!-- STYLESHEET -->
+    <style>
+        #home>nav.--menu            { padding:2em 0;}
+        #home>nav.--menu li         { padding:1em 2em; color: @DARK3; cursor:pointer; }
+        #home>nav.--menu li:hover   { transform-origin: center center; transform:scale(1.2); } 
+        #home>nav.--menu img        { height: 3em; width:3em; transform-origin: center center; transform:translate(-1em, -1em); }
+    </style>
+    <!-- SCRIPS -->
+    <script> 
+        app.retrieve_data = method => {
+            app.post("articles", { method: method, limit: 50 }).then(response => {
+                
+                if(response.data.trim()=="{}") return app.error("Ops, algo deu errado...")
+
+                const
+                stages = $("#home .--content div").each(x => x.empty())
+                ;;
+                
+                response.data.json().each((item, i) => {
+                    app.sleep(32).then(NULL => stages[i%stages.length].app(app.components.article_tile.prepare(item).morph()[0]))
+                })
+
+                $("img").each(i => i.css({ maxWidth:"100%" }))
+            })
+        }
+        ;;
+
+        setTimeout(NULL => bootloader.ready("home"), AL*2)
+    </script>
+</template>

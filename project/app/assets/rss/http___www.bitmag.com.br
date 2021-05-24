@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>B!T magazine</title>
+	<atom:link href="https://www.bitmag.com.br/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bitmag.com.br</link>
+	<description>Tudo o que importa em TI está aqui</description>
+	<lastBuildDate>Wed, 19 May 2021 18:04:20 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Waeg passa para mãos da IBM</title>
+		<link>https://www.bitmag.com.br/2021/05/waeg-passa-para-maos-da-ibm/</link>
+					<comments>https://www.bitmag.com.br/2021/05/waeg-passa-para-maos-da-ibm/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Wed, 19 May 2021 18:04:20 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Virtualização]]></category>
+		<category><![CDATA[compra]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[Waeg]]></category>
+		<guid isPermaLink="false">https://www.bitmag.com.br/?p=74867</guid>
+
+					<description><![CDATA[O negócio vem permitir ampliar toda a gama de serviços da Big Blue,]]></description>
+										<content:encoded><![CDATA[<p>A <strong>IBM</strong> anunciou sua intenção de vir a comprar a <strong>Waeg</strong>.</p>
+<p>Trata-se de um parceiro de consultoria da <strong>Salesforce e o negócio surge em sequência de</strong> <strong>um acordo</strong> que vai ampliar a gama de serviços da Big Blue, além de apoiar sua nuvem híbrida e sua estratégia de inteligência artificial.</p>
+<p>O anuncio deste acordo aparece depois de, em janeiro ultimo, a IBM ter também fechado <strong>a compra da 7Summits,</strong> uma consultoria norte-americana que faz gerenciamento de clientes Salesforce.</p>
+<p>Mark Foster, vice-presidente sênior do IBM Services e Global Business Services vem recordar que &#8220;a importância da Waeg em sua área de serviços de consultoria Salesforce será chave para a criação de fluxos de trabalho inteligentes&#8221; e que vão permitir aos clientes da IBM &#8220;acompanhar as mudanças nas necessidades e expectativas de clientes e funcionários”.</p>
+<p>A Waeg emprega uma equipe de 130 colaboradores, em países como França, Irlanda, Bélgica, Portugal ou Holanda.</p>
+<p>Os <strong>termos do negócio</strong> não foram divulgados, segundo refere a Reuters.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bitmag.com.br/2021/05/waeg-passa-para-maos-da-ibm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="721921" type="image/jpeg" url="https://www.bitmag.com.br/wp-content/uploads/2017/01/ibm.jpg" />
+	</item>
+		<item>
+		<title>5G é uma oportunidade de desenvolvimento para o Brasil</title>
+		<link>https://www.bitmag.com.br/2021/05/5g-e-uma-oportunidade-de-desenvolvimento-para-o-brasil/</link>
+					<comments>https://www.bitmag.com.br/2021/05/5g-e-uma-oportunidade-de-desenvolvimento-para-o-brasil/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Wed, 19 May 2021 12:00:59 +0000</pubDate>
+				<category><![CDATA[5G]]></category>
+		<category><![CDATA[Mobilidade]]></category>
+		<category><![CDATA[estratégia]]></category>
+		<category><![CDATA[Fujitsu Brasil]]></category>
+		<guid isPermaLink="false">https://www.bitmag.com.br/?p=74800</guid>
+
+					<description><![CDATA[Alex Takaoka, da Fujitsu no Brasil, falou do presente e do futuro da tecnologia 5G, apontou as suas principais potencialidades e abordou a estratégia da empresa neste campo. ]]></description>
+										<content:encoded><![CDATA[<p>A Fujitsu Brasil tem na tecnologia 5G um dos pontos centrais de sua estratégia corporativa. Em conversa com a Bit Brasil, Alex Takaoka, diretor de Vendas do Fujitsu no Brasil, falou do presente e do futuro da tecnologia e apontou as principais potencialidades do 5G bem como a estratégia da empresa neste campo.</p>
+<p><strong>Bit &#8211; Como está a Fujitsu olhando para o 5G atualmente?</strong></p>
+<p>Alex Takaoka &#8211; A tecnologia 5G é parte central de nossa estratégia corporativa mundial para promover uma sociedade mais sustentável e próspera através da tecnologia. Entendemos que o acesso à informação e plataformas de alto desempenho de forma massificada é peça chave no desenvolvimento de uma sociedade inteligente mais conectada. Com essa visão, temos investido constantemente no desenvolvimento de produtos e serviços para a implementação de redes 5G e nos futuros padrões como o 6G.</p>
+<p><strong>Bit &#8211; Que passos falta dar para esta tecnologia se tornar “realidade”?</strong></p>
+<p>Alex Takaoka &#8211; A tecnologia 5G já é uma realidade em construção em vários países que tem suas primeiras redes implementadas, provando a capacidade prometida de transformação e desempenho. Estamos agora no momento chave de começar a “escalar” a tecnologia através da implementação de novas redes ao redor do globo com o suporte e regulação dos governos locais e dos investimentos da iniciativa privada.</p>
+<p><strong>Bit &#8211; Quais as potencialidades do 5G?</strong></p>
+<p>Alex Takaoka &#8211; Com acesso de maior qualidade, tanto em capacidade como em tempo de resposta, implementações de missão crítica, que dependem de grande quantidade de dados, poderão ser implementadas com menor custo e maior confiabilidade. A tecnologia 5G pode entregar de 10 a 20 vezes mais performance, o que torna, por exemplo, a implementação de fábricas inteligentes com controles automatizados e gestão de qualidade baseada em vídeo de alta resolução em tempo real uma realidade mais próxima de um número maior de empresas.</p>
+<p><strong>Bit &#8211; De que forma pensa que esta tecnologia pode ajudar o país?</strong></p>
+<p>Alex Takaoka &#8211; O Brasil é um país que ainda carece de conectividade em nível nacional, sendo essa mais uma oportunidade que temos de expandir a cobertura em mais áreas e assim atraindo atividade econômica, tanto com o estabelecimento de empresas, quanto na expansão do trabalho remoto nessas regiões. No entanto, para isso é necessário que essa infraestrutura básica de conectividade de alta qualidade esteja disponível tanto para as empresas como para os cidadãos.</p>
+<p><strong>Bit &#8211; Tem exemplos concretos relacionados ao Brasil?</strong></p>
+<p>Alex Takaoka &#8211; O Brasil com suas dimensões continentais tem um desafio maior na implementação de redes contínuas de alta velocidade. No entanto, isso também é uma oportunidade de desenvolvimento de diversos polos potencializados pela disponibilidade de infraestrutura adequada que pode atrair atividade econômica relacionada a nova economia digital. Além desse ponto, com a implementação de redes privadas 5G e computação de borda, um nível maior de automação e resposta baseada em Inteligência Artificial pode ser alcançada na produção agrícola, industrial e de proteção ambiental elevando o patamar de produtividade de nossas empresas e bem estar da sociedade.</p>
+<p><strong>Bit &#8211; Quando pensa que o Brasil pode vir a usar 5G?</strong></p>
+<p>Alex Takaoka &#8211; Estamos no caminho dessas implementações e acredito que teremos sucesso na execução do processo de concessão das frequências e na regulação da implementação da tecnologia 5G ainda em 2021, como projetado pelo Governo e entes participantes. A partir desse ponto, teremos algum tempo ainda empenhado na implementação de redes e na pesquisa e regulação de padrões adicionais como o OpenRAN que deve agregar muito na forma como as redes poderão ser construídas e operadas no futuro.</p>
+<p><strong>Bit &#8211; Tendo em conta um mapeamento da Anatel, apenas 11,1% de toda a extensão territorial do país tem cobertura 4G. De que forma isso pode dificultar o 5G no Brasil?</strong></p>
+<p>Alex Takaoka &#8211; O 4G não é essencial para implementação de redes 5G, uma vez que redes privadas e standalone podem ser implementadas onde a tecnologia 4G ainda não está presente. O salto de uma geração pode ser uma estratégia altamente eficaz, reduzindo o tempo de evolução tecnológica em casos onde existe esse “atraso”. A parte mais importante desse dado da Anatel, na verdade, é que temos uma quantidade enorme territorial carente de qualquer tipo de conectividade e essa é uma oportunidade de reduzir esse déficit histórico que afeta diretamente a todos.</p>
+<p><strong>Bit &#8211; Como vê as medidas do Governo no âmbito do 5G?</strong></p>
+<p>Alex Takaoka &#8211; Temos acompanhado as definições uma vez que nos afeta de forma indireta como fornecedores de tecnologia e até o momento não vemos nenhum ponto complexo ou impeditivo à nossa participação nesse mercado.</p>
+<p><strong>Bit &#8211; Qual a estratégia 5G da Fujitsu?</strong></p>
+<p>Alex Takaoka &#8211; A Fujitsu investe no desenvolvimento de tecnologia de ponta, segura e aberta em todos os seus segmentos de atuação. Dessa forma, participamos ativamente do O-RAN Alliance que define padrões de interoperabilidade entre equipamentos de rede 5G aos quais nossos produtos são totalmente aderentes. Nossa estratégia é pautada em dar poder de escolha aos nossos clientes para possam compor sua infraestrutura de redes do ponto de vista de Hardware, Software e serviços de forma transparente, a fim de promover índices maiores de competitividade e segurança auditável em todos os pontos da implementação. Essa estratégia, quando avaliada em perspectiva de longo prazo, garante maior competitividade de mercado, transparência e evolução de forma similar ao que acontece em todo o segmento de tecnologia atualmente, onde cada vez mais a cooperação de diversos fornecedores leva a real inovação e construção de valor.</p>
+<p><strong>Bit &#8211; Qual o papel da Fujitsu neste campo junto das empresas / usuários? </strong></p>
+<p>Alex Takaoka &#8211; Como destaquei, somos essencialmente fornecedores de tecnologia de hardware, software e serviços para implementação de redes 5G, tanto em âmbito de operadoras de telecomunicações, quanto em redes privadas de organizações. De forma indireta, os usuários finais dessas empresas são também nossos usuários e por esse motivo prezamos muito pela segurança, transparência e confiabilidade de nossas soluções e na de parceiros de implementação 5G OpenRAN. A implementação das redes 5G standalone, e mesmo as iniciadas a partir de um core 4G demandam uma ampliação considerável de conectividade por fibra ótica, sendo esse o nosso segmento de atuação atual no mercado nacional, onde oferecemos equipamento de ponta para implementação desse tipo de redes que é a base futura para a expansão massiva de 5G no futuro.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bitmag.com.br/2021/05/5g-e-uma-oportunidade-de-desenvolvimento-para-o-brasil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="19282" type="image/jpeg" url="https://www.bitmag.com.br/wp-content/uploads/2021/05/Alex-Takaoka_Fujitsu-Brasil-e1620581404923.jpg" />
+	</item>
+		<item>
+		<title>Android 12: é oficial, está aí nova versão</title>
+		<link>https://www.bitmag.com.br/2021/05/android-12-e-oficial-esta-ai-nova-versao/</link>
+					<comments>https://www.bitmag.com.br/2021/05/android-12-e-oficial-esta-ai-nova-versao/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 19:14:28 +0000</pubDate>
+				<category><![CDATA[Mobilidade]]></category>
+		<category><![CDATA[Android 12]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[sistema operativo]]></category>
+		<guid isPermaLink="false">https://www.bitmag.com.br/?p=74863</guid>
+
+					<description><![CDATA[Alguns ícones e widgets estão com design redesenhado, incluindo o player de mídia e o ajuste de brilho. ]]></description>
+										<content:encoded><![CDATA[<p>A <strong>Google</strong> apresentou para seus utilizadores a <strong>nova versão do Android.</strong></p>
+<p>O <strong>Android</strong> <strong>12</strong> traz várias novidades interessantes para os amantes do <strong>sistema operativo</strong>.</p>
+<p>Este é um si<strong>stema totalmente redesenhado,</strong> com foco principal na interface e no que esta oferece aos utilizadores.</p>
+<p>A segurança não ficou esquecida e existe maior preocupação com ela também o que, aliás, não é novidade da Google em seu sistema operativo.</p>
+<p>A mudança visual é também grande com uma nova imagem, muito mais pensada para os utilizadores e que procura entregar-lhes a melhor experiência possível.</p>
+<p>Alguns ícones e widgets estão com design redesenhado, incluindo o player de mídia e o ajuste de brilho. Além disso, sabe-se também que a tela de bloqueio vai colocar as notificações &#8220;empilhadas&#8221;.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bitmag.com.br/2021/05/android-12-e-oficial-esta-ai-nova-versao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="21734" type="image/jpeg" url="https://www.bitmag.com.br/wp-content/uploads/2015/08/android-pay.jpg" />
+	</item>
+		<item>
+		<title>Os novos recursos do Microsoft Teams</title>
+		<link>https://www.bitmag.com.br/2021/05/os-novos-recursos-do-microsoft-teams/</link>
+					<comments>https://www.bitmag.com.br/2021/05/os-novos-recursos-do-microsoft-teams/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 17:48:59 +0000</pubDate>
+				<category><![CDATA[Inovação]]></category>
+		<category><![CDATA[conversação]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Plataforma]]></category>
+		<category><![CDATA[Teams]]></category>
+		<guid isPermaLink="false">https://www.bitmag.com.br/?p=74860</guid>
+
+					<description><![CDATA[As reuniões de família ou amigos ganham novos cenários virtuais mas há também compartilhamento da lista de tarefas entre utilizadores.]]></description>
+										<content:encoded><![CDATA[<p>A plataforma de videochamadas<strong> Teams da Microsoft ganhou um conjunto de novos recursos</strong> voltados para reuniões virtuais mas dedicadas a <strong>família</strong> e <strong>amigos.</strong></p>
+<p>Sendo uma plataforma que, até ao momento, estava mais dedicada ao lado profissional, o software vai permitir agora criar salas de chat e realizar chamadas de vídeo em grupo com até 300 pessoas ao mesmo tempo.</p>
+<p>Em comunicado, a Microsoft também prometeu desenvolver um <strong>conjunto de funções especificamente para conversas com família e amigos</strong> e vai integrar nelas reações com emojis, cenários virtuais que deixam os usuários no mesmo ambiente e ainda compartilhamento de ferramentas de produtividade.</p>
+<p>E, ao contrário daquilo que acontecia com os fundos virtuais, os cenários agora escolhidos podem ser compartilhados automaticamente por todos os participantes.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bitmag.com.br/2021/05/os-novos-recursos-do-microsoft-teams/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="172562" type="image/png" url="https://www.bitmag.com.br/wp-content/uploads/2017/06/ms-teams-now-2-1024x575.png" />
+	</item>
+		<item>
+		<title>Galaxy Tab S7 XL Lite recebe luz verde no Brasil</title>
+		<link>https://www.bitmag.com.br/2021/05/galaxy-tab-s7-xl-lite-recebe-luz-verde-no-brasil/</link>
+					<comments>https://www.bitmag.com.br/2021/05/galaxy-tab-s7-xl-lite-recebe-luz-verde-no-brasil/#respond</comments>
+		
+		<dc:creator><![CDATA[Bit Magazine]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 14:21:51 +0000</pubDate>
+				<category><![CDATA[Mobilidade]]></category>
+		<category><![CDATA[Tablets]]></category>
+		<category><![CDATA[brasil]]></category>
+		<category><![CDATA[Galaxy Tab S7]]></category>
+		<category><![CDATA[samsung]]></category>
+		<guid isPermaLink="false">https://www.bitmag.com.br/?p=74858</guid>
+
+					<description><![CDATA[O dispositivo agora homologado pela Agência Nacional de Telecomunicações (Anatel) é reconhecido pelo modelo SM-T735.]]></description>
+										<content:encoded><![CDATA[<p>A  <strong>Samsung</strong> já pode comercializar seu novo tablet no Brasil.</p>
+<p><strong>A Anatel deu luz verde </strong>e homologou o esperado <strong>Samsung Galaxy Tab S7 XL Lite</strong>, que deve chegar nas lojas com ficha técnica mais simples.</p>
+<p>Ainda assim, a data final de lançamento do gadget no Brasil ainda é um mistério.</p>
+<p>O dispositivo agora homologado pela Agência Nacional de Telecomunicações (Anatel) é reconhecido pelo modelo <strong>SM-T735</strong>.</p>
+<p>Especialistas do mercado dizem esperar que este tablet acabe por ser uma versão mais simples do dispositivo anunciado no ano passado, com sua tela medindo 12,4 polegadas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bitmag.com.br/2021/05/galaxy-tab-s7-xl-lite-recebe-luz-verde-no-brasil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			<enclosure length="67033" type="image/jpeg" url="https://www.bitmag.com.br/wp-content/uploads/2017/03/samsung-1-684x389.jpg" />
+	</item>
+	</channel>
+</rss>
