@@ -108,5 +108,6 @@ São eles:
     3. Alterações visuais no ```*/article_tile.htm```
     4. Alterações na página principal (```*/home.htm```)
     5. Alterações na página de carregamento (```*/splash.htm```)
+    6. Exibir o nome, tratado e limpo, da Mídia publicadora da notícia RSS para o usuário seria interessante.
 
 # Que a força esteja com você!
