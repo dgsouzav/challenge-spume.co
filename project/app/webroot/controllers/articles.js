@@ -5,32 +5,65 @@ rss = require("./rss.js")
 
 ;;
 
+const TEN_DAYS_TIMESTAMP = 1000 * 60 * 60 * 24 * 10
+
+function is_ten_days_ago(timestamp){
+    const now = new Date().getTime()
+
+    return timestamp > new Date(now - TEN_DAYS_TIMESTAMP).getTime()
+} 
+
+function is_tech_article(article){
+    if(article.category === "Tech"){
+        return true
+    } else if (article.category?.includes("Tecnologia")){
+        return true
+    } else if (article?.source?._?.includes("Canaltech")){
+        return true
+    } else if (article?.source?._?.includes("Olhar Digital")){
+        return true
+    } else if (article.category?.includes("Windows")){
+        return true
+    } else if (article.category?.includes("Linux")){
+        return true
+    } else if (article.category?.includes("Backup")){
+        return true
+    } else if (article.category?.includes("Suporte")){
+        return true
+    } else if (article.category?.includes("Cloud")){
+        return true
+    } else if (article.category?.includes("Segurança Digital")){
+        return true
+    } 
+    return false
+}
+
 module.exports = class Articles {
 
 
-    static only_10_days(limit){
-        /********************************************************
-                               _        _
-         _ __ ___   __ _  __ _(_) ___  | |__   ___ _ __ ___
-        | '_ ` _ \ / _` |/ _` | |/ __| | '_ \ / _ \ '__/ _ \
-        | | | | | | (_| | (_| | | (__  | | | |  __/ | |  __/
-        |_| |_| |_|\__,_|\__, |_|\___| |_| |_|\___|_|  \___|
-                         |___/
-        *********************************************************/
-        return {}
-    }
+    static last_10_days(limit){
+        const articles = []
+        let i=0;
+        rss.articles().forEach(article => {
+            if(is_ten_days_ago(new Date(article.pubDate).getTime()) && i < limit){
+                articles.push(article)
+                i++
+            }
+        })
+        return articles
+    } 
 
 
     static only_techs(limit){
-        /********************************************************
-                               _        _
-         _ __ ___   __ _  __ _(_) ___  | |__   ___ _ __ ___
-        | '_ ` _ \ / _` |/ _` | |/ __| | '_ \ / _ \ '__/ _ \
-        | | | | | | (_| | (_| | | (__  | | | |  __/ | |  __/
-        |_| |_| |_|\__,_|\__, |_|\___| |_| |_|\___|_|  \___|
-                         |___/
-        *********************************************************/
-        return {}
+        const articles = []
+        let i=0;
+        rss.articles().forEach(article => {
+            if(is_tech_article(article) && i < limit){
+                articles.push(article)
+                i++
+            }
+        })
+        return articles
     }
 
 
